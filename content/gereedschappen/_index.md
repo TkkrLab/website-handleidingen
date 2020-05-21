@@ -1,19 +1,19 @@
 ---
 title: "Gereedschappen"
 nodateline: true
-weight: 3
+weight: 1
 ---
 
-Dit gereedschap is beschikbaar voor alle TkkrLab leden, te gebruiken in de space of werkplaats zelf.
+Dit gereedschap is beschikbaar voor alle TkkrLab leden, te gebruiken in de space of werkplaats.
 
 Ga met het gereedschap om zoals het bedoeld is, mocht je niet weten hoe iets werkt hebben we voor deze gereedschappen een handleiding beschikbaar. Als er een stuk gereedschap is waar nog geen handleiding voor is maar deze er wel moet komen, meld dit dan bij het bestuur, of nog beter, schrijf hem zelf.
-
 
 ## Space (ruimte 2.08)
  * 3d Printers
   * [Up Mini](up-mini)
   * [Ultimaker original](ultimaker)
-  * WANHAO DUPLICATOR 4 dual head (met smoothieware board)  
+  * WANHAO DUPLICATOR 4 dual head (met smoothieware board)
+ * [Silhouette Cameo 3](silhouette) Folie snijder 
  * Naaimachine : Singer Serenade 10
  * Lijmpistool
  * Klein handgereedschap 

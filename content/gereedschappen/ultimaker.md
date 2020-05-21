@@ -47,6 +47,8 @@ De Ultimaker draait op open source marlin en kan alle Gcode van standaard slicer
 
 Naast de Ultimaker staat een pc met Slic3r. Hier zijn profielen aanwezig voor de Ultimaker.
 
+Als je op eigen systeem wil slicen is het hangste dat je [Cura](https://ultimaker.com/software/ultimaker-cura) installeert en deze [project file](/files/Project_Ultimaker_Yvo.3mf) importeert. Hiermee zou je de goede instellingen moeten hebben voor deze 3d printer en op je eigen systeem kunnen slicen.
+
 ## Printen
 
 Printen met de Ultimaker gaat als volgt:

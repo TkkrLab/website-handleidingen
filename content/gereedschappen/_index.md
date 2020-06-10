@@ -32,9 +32,9 @@ Ga met het gereedschap om zoals het bedoeld is, mocht je niet weten hoe iets wer
  * Electronica componenten zoals de nodige grijpvoorraad, arduino's etc. 
 
 ## Werkplaats (ruimte 1.14)
- * Lasercutter (30x40cm 40W)
+ * [Lasercutter (30x40cm 60W)](lasercutter-cw3040)
  * Grote CNC 
  * Zaagtafel
  * Kolomboor
- * Reflow T962A Reflow over voor SMD componenten.
+ * Reflow T962A oven voor SMD componenten.
  * diverse handgereedschap

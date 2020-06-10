@@ -11,7 +11,6 @@ De lasercutter van TkkrLab.
  * Bed 30x40CM
  * Vermogen 40W
  * Smoothieboard als controller
- * Autoblade (mesje is instelbaar via software)
 
 ## Software
 
@@ -34,7 +33,7 @@ Maak de volgende selecties :
 
 Gefeliciteerd, je hebt de laser nu aangemaakt. Als je computer via USB aansluit aan de laser kun je deze gebruiken.
 
-Natuurlijk is het ook handig om wat instellingen voor de materialen te hebben. Je kunt [deze library](/files/Tkkrlab.clb) deze library gebruiken, zet deze ergens lokaal op je systeem. Via Library -> Load kun je dit bestand laden en gebruiken.
+Natuurlijk is het ook handig om wat instellingen voor de materialen te hebben. Je kunt [deze library](/files/Tkkrlab.clb) gebruiken, zet deze ergens lokaal op je systeem. Via Library -> Load kun je dit bestand laden en gebruiken.
 
 Mocht je een coplexe opdracht willen maken waarbij je veel verschillende instellingen wil gebruiken in 1 opdracht, gebruik [deze color pallet](/files/color_palette_lightburn.zip) in Inkscape met de gebruikte kleuren in Lightburn.
 

@@ -9,7 +9,7 @@ De lasercutter van TkkrLab.
   
 ## Specificaties
  * Bed 30x40CM
- * Vermogen 60W
+ * Vermogen 40W
  * Smoothieboard als controller
  * Autoblade (mesje is instelbaar via software)
 

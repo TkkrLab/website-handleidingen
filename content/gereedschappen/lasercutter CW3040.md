@@ -4,7 +4,7 @@ date: 2020-06-10
 weight: 5
 ---
 
-![Lasercutter CW3040 TkkrLab](/images/TkkrLab_Laser_Cutter_CW3040.jpeg)
+![Lasercutter CW3040 TkkrLab](/images/TkkrLab_Laser_Cutter_CW3040.jpg)
 De lasercutter van TkkrLab.
   
 ## Specificaties
@@ -18,19 +18,21 @@ De lasercutter van TkkrLab.
 
 De laser bestaat uit de volgende onderdelen:
 
- * Laser interface
- * Laser veiligheid
- * Afzuiging ventilator
- * Schakelaar laser
- * Laser bed
- * Laptop (aan/uit knop binnen in de laptop)
- * Laser kop
- * Richt laser
+ 1. Schakelaar laser
+ 2. Laser veiligheid
+ 3. Laser interface
+ 4. Hoogte instelling
+ 5. Laptop (onder de tafel)
+ 6. Afzuiging (op de vensterbank)
+ 
+![Lasercutter CW3040 TkkrLab](/images/Laser_overview.png)
  
 
 ### Laser veiligheid
 
-De laser veiligheidscontroller zorgt er voor dat de laser zich zelf niet kan slopen en veilig blijft. Deze controller controleert een aantal parameters om te bepalen of de laser aan mag staan. Wanneer de veiligheid de laser niet aan zet staat op het scherm waarom dit zo is.
+![Lasercutter CW3040 TkkrLab](/images/TkkrLab_Laser_Safetycontr.jpg)
+
+De laser veiligheidscontroller zorgt er voor dat de laser zich zelf niet kan slopen en veilig blijft. Deze controller controleert een aantal parameters om te bepalen of de laser aan mag staan. Wanneer de veiligheid de laser niet aan zet staat op het scherm waarom dit zo is. 
 
  * Er moet water stromen door de laser
  * Het water moet kouder zijn dan 40C (bij 30C verschijnt er een waarschuwing)
@@ -59,7 +61,7 @@ Als je Lightburn wil gebruiken op je eigen systeem, kun je de bestanden eerst op
 
 [Download](https://lightburnsoftware.com/pages/trial-version-try-before-you-buy) en installeer Lightburn op je systeem. Hierna kun je de TkkrLab laser aanmaken in Lightburn, start Lightburn op. Als er nog geen laser aangemaakt is gaat een wizard voor je de laser zoeken. 
 
-Maak de volgende selecties :
+Maak de volgende selecties:
 
  * Device is 'Smoothieware', selecteer 'Next'.
  * Verbinding via 'Serial/USB', selecteer 'Next'.
@@ -92,21 +94,19 @@ De laser kan de volgende materialen snijden:
 
 #### Laser starten
 
-Raam openen
+Voordat je kunt snijden moet de afzuiging aangezet worden. Hiervoor moet eerst het raam open, en de buis op het raam worden aangesloten. Hierna kun je de stroom op de laser aansluiten en de afzuiging aan zetten. De laser heeft 2 schakelaars. Op de achterzijde zit een conventionele schakelaar. Op de bovenzijde zit een zwarte drukknop die je uit moet trekken om de laser aan te zetten. Onder de tafel staat een laptop die aangezet moet worden. De aan/uit knop van de laptop zit aan de binnenzijde. Houdt er rekening mee dat de laptop circa 2 minuten nodig heeft om op te starten.
 
-Afzuiging ventilator op het raam
+![Lasercutter CW3040 TkkrLab](/images/TkkrLab_Laser_Raam_open1.jpg)
 
-Schakelaar van de stekkerdoos inschakelen
-
-Ventilator aan
-
-Zwarte schakelaar schakelen
-
-Laptop aan zetten (2 minuten opstarttijd)
+![Lasercutter CW3040 TkkrLab](/images/TkkrLab_Laser_Raam_open2.jpg)
 
 #### Bedhoogte instellen
 
 De draaiknop op de voorkant van de laser wordt gebruikt om de hoogte van het bed in te stellen. Dit is belangrijk om de afstand van het brandpunt goed te krijgen. Onder het snijpunt staat een rode richtlaser. Wanneer de 2 lasers 1 punt vormen dan is de laser op de juiste afstand.
+
+![Lasercutter CW3040 TkkrLab](/images/TkkrLab_Laser_spot_fout.jpg)
+
+![Lasercutter CW3040 TkkrLab](/images/TkkrLab_Laser_spot_goed.jpg)
 
 #### Snijden
 
@@ -114,13 +114,8 @@ Stuur je opdracht naar de laser. Blijf ALTIJD bij de laser!!!!!
 
 #### Afsluiten
 
-Laser met zwarte schakelaar uitzetten
+Om de laser af te sluiten kun je op de zwarte knop op de laser drukken. De schakelaar op de achterzijde hoeft niets uitgeschakeld te worden. De laptop kan afgesloten worden. De buis moet van het raam worden gehaald en het raam moet worden gesloten. Nu kan de stroom met het stekkerblok van de laser gehaald worden.
 
-Laptop afsluiten
-
-Raam sluiten
-
-Stroom van laser af
 
 
 

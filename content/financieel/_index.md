@@ -1,5 +1,5 @@
 ---
 title: "Financiën"
 nodateline: true
-weight: 2
+weight: 30
 ---

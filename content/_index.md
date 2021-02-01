@@ -3,7 +3,7 @@ title: Tkkrlab handleidingen
 nodateline: true
 noprevnext: true
 disable_comments: true
-weight: 0
+weight: 90
 ---
 
 # Tkkrlab handleidingen

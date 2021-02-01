@@ -1,7 +1,7 @@
 ---
 title: "Gereedschappen"
 nodateline: true
-weight: 1
+weight: 10
 ---
 
 Dit gereedschap is beschikbaar voor alle TkkrLab leden, te gebruiken in de space of werkplaats.
@@ -23,6 +23,7 @@ Ga met het gereedschap om zoals het bedoeld is, mocht je niet weten hoe iets wer
  * Labvoedingen : 
    * Rigol DP832
    * Korad KA3005P 0-30V 0-5A programmeerbaar
+ * Frequentie Generator : JUNCE JDS6600 - 50MHZ, 2 kanalen
  * MTester voor testen van elektronische componenten
  * [Seleae Logic Analyzer (8 kanaals & 16 kanaals)](http://support.saleae.com/hc/en-us/sections/200114124-Get-Started-Using-the-Saleae-Logic-Analyzer)
  * Soldeerbouten

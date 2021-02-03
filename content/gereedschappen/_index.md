@@ -30,13 +30,14 @@ Ga met het gereedschap om zoals het bedoeld is, mocht je niet weten hoe iets wer
    * JBC
    * Weller
  * iFixit Pro Tech Toolkit met vrijwel alle exotische schroeven zoals Tri-Wing, Torx BO, Spanner, Plat, Pentalobe.
- * Heatgun
+ * IKA HCT basic hotplate (voor SMD solderen)
  * Solder paste dispenser for SMD components.
+ * Heatgun
  * Electronica componenten zoals de nodige grijpvoorraad, arduino's etc. 
 
 ## Werkplaats (ruimte 1.14)
  * [Lasercutter (30x40cm 40W)](lasercutter-cw3040)
- * Grote CNC 
+ * [Grote CNC](CNC) 
  * Zaagtafel
  * Lintzaag
  * Kolomboor

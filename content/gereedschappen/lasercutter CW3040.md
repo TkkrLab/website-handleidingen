@@ -72,7 +72,8 @@ Maak de volgende selecties:
 
 Gefeliciteerd, je hebt de laser nu aangemaakt. Als je computer via USB aansluit aan de laser kun je deze gebruiken.
 
-Natuurlijk is het ook handig om wat instellingen voor de materialen te hebben. Je kunt [deze library](/files/Tkkrlab.clb) gebruiken, zet deze ergens lokaal op je systeem. Via Library -> Load kun je dit bestand laden en gebruiken.
+Natuurlijk is het ook handig om wat instellingen voor de materialen te hebben. Je kunt [deze library](/files/tkkrLab_lightburn.zip) gebruiken, zet deze ergens lokaal op je systeem. Via Library -> Load kun je dit bestand laden en gebruiken.
+
 
 Mocht je een coplexe opdracht willen maken waarbij je veel verschillende instellingen wil gebruiken in 1 opdracht, gebruik [deze color pallet](/files/color_palette_lightburn.zip) in Inkscape met de gebruikte kleuren in Lightburn.
 
@@ -83,12 +84,16 @@ Mocht je een coplexe opdracht willen maken waarbij je veel verschillende instell
 De laser kan de volgende materialen snijden:
 
  * Multiplex
+ * MDF
  * Plexiglas (PMMA)
+ * Karton/papier
+ * Vilt
 
 #### Niet
 
- * Chloor houdende materialen (PVC, bepaalde rubbers)
+ * Chloor houdende materialen (PVC)
  * Teflon (PTFE)
+ * Voor stempels : Rubber (er bestaat speciaal laser-rubber)
 
 ### Laser snijden
 

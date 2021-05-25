@@ -6,6 +6,9 @@ weight: 5
 
 ![Lasercutter CW3040 TkkrLab](/images/TkkrLab_Laser_Cutter_CW3040.jpg)
 De lasercutter van TkkrLab.
+
+{{< youtube JtGMao8C_nw >}}
+
   
 ## Specificaties
  * Bed 30x40CM
@@ -39,6 +42,11 @@ De laser veiligheidscontroller zorgt er voor dat de laser zich zelf niet kan slo
  * De deur moet gesloten zijn
 
 ## Software
+
+### Inkscape
+Met [inkscape](http://inkscape.org/) (of ander vector teken programma) kun je een ontwerp maken voor de lasercutter. Als je ontwerp klaar hebt kun je deze opslaan als svg en in Lightburn importeren. Zet lettertypen om naar 'path', ander is de kans groot dat je de layout van je lettertype kwijt raakt.
+
+Zie ook onze lasercutter workshop op [youtube](https://www.youtube.com/watch?v=JtGMao8C_nw)
 
 ### Lightburn
 

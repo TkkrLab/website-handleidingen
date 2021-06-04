@@ -8,12 +8,13 @@ Dit gereedschap is beschikbaar voor alle TkkrLab leden, te gebruiken in de space
 
 Ga met het gereedschap om zoals het bedoeld is, mocht je niet weten hoe iets werkt hebben we voor deze gereedschappen een handleiding beschikbaar. Als er een stuk gereedschap is waar nog geen handleiding voor is maar deze er wel moet komen, meld dit dan bij het bestuur, of nog beter, schrijf hem zelf.
 
-## Space (ruimte 2.08)
+## Space (Boven)
  * 3d Printers
    * [Up Mini](up-mini)
    * [Ultimaker original](ultimaker)
    * WANHAO DUPLICATOR 4 dual head (met smoothieware board)
- * [Silhouette Cameo 3](silhouette) Folie snijder 
+ * [Silhouette Cameo 3](silhouette) Folie snijder
+ * Reflow T962A oven voor SMD componenten.
  * Naaimachine : Singer Serenade 10
  * Lijmpistool
  * Klein handgereedschap 
@@ -35,11 +36,10 @@ Ga met het gereedschap om zoals het bedoeld is, mocht je niet weten hoe iets wer
  * Heatgun
  * Electronica componenten zoals de nodige grijpvoorraad, arduino's etc. 
 
-## Werkplaats (ruimte 1.14)
+## Werkplaats
  * [Lasercutter (30x40cm 40W)](lasercutter-cw3040)
  * [Grote CNC](CNC) 
  * Zaagtafel
  * Lintzaag
  * Kolomboor
- * Reflow T962A oven voor SMD componenten.
  * diverse handgereedschap

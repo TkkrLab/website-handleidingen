@@ -14,7 +14,7 @@ Ga met het gereedschap om zoals het bedoeld is, mocht je niet weten hoe iets wer
    * [Ultimaker original](ultimaker)
    * WANHAO DUPLICATOR 4 dual head (met smoothieware board)
  * [Silhouette Cameo 3](silhouette) Folie snijder
- * Reflow T962A oven voor SMD componenten.
+ * Reflow T962A oven voor SMD componenten. 
  * Naaimachine : Singer Serenade 10
  * Lijmpistool
  * Klein handgereedschap 

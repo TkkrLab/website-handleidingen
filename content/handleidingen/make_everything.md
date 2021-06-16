@@ -27,9 +27,9 @@ Voor het ontwerpen van een digitaal ontwerp kun je eigenlijk elk programma gebru
 * [Blender](https://www.blender.org/) : Meer bedoeld voor organisch modelleren en animeren van video. Open source.
 * [OnShape](https://www.onshape.com/en/) : online web CAD programma, geschikt voor (complex) technische tekeningen.
 
-Nadat je een ontwerp heb gemaakt moet je de STL het slicen naar g-code, hiervoor kun je [Cura](https://ultimaker.com/software/ultimaker-cura) of [PrusaSlicer](https://www.prusa3d.com/prusaslicer/) gebruiken. Beide zijn open source en gratis te downloaden. Ze ondersteunen ook diverse 3d printers (zodat je niet zelf een profiel hoeft aan te maken).
+Nadat je een ontwerp heb gemaakt moet je de STL slicen naar g-code ('vertalen' voor de betreffende 3d printer), hiervoor kun je [Cura](https://ultimaker.com/software/ultimaker-cura) of [PrusaSlicer](https://www.prusa3d.com/prusaslicer/) gebruiken. Beide zijn open source en gratis te downloaden. Ze ondersteunen ook diverse 3d printers (zodat je niet zelf een profiel hoeft aan te maken).
 
-De gemaakte g-code moet als laatste stop door de printer worden afgedrukt, dit gaat meestal dmv een SD kaart.
+De gemaakte g-code moet als laatste stap door de printer worden afgedrukt, dit gaat meestal door de g-code op een SD kaart te zetten en deze in de 3d printer te doen.
 
 ## Kosten voor deelnemers
 Prijs van filament per gram is € 0,?? . In je slicer kun je zien hoeveel gram de printer nodig heeft. We hebben bij TkkrLab diverse kleuren PLA beschikbaar.

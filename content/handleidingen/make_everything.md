@@ -10,9 +10,14 @@ De doelstelling is om aan te geven wat je met de apparatuur kunt doen en hoe je 
 
 Vooral als je meerdere van de onderstaande technieken combineert kunt je vrijwel alles maken wat je kunt bedenken.
 
+Voor alle onderstaande apparaten geld dat je een digitaal ontwerp moet hebben om deze uit te laten voeren op de betreffende machine. Een ontwerp zou je kunnen downloaden of zelf kunnen maken.
+
+Bij TkkrLab kun je als deelnemer gratis gebruik maken van de apparatuur, de verbruiksmaterialen kun je tegen kostprijs kopen. Je mag ook je eigen materialen meenemen.
+
+
 # 3d printen
 
-Met een 3d printer kun je eenmalige vormen maken met diverse plastic materialen (PLA, PETG, ABS, TPU). Hiervoor heb je een digitaal ontwerp nodig (STL) dat dmv een slicer naar de 3d printer gestuurd word. Kleinere aantallen kun je ook wel printen, maar hou er rekening mee dat 3d printen niet snel is.
+Met een 3d printer kun je complexe vormen maken met diverse plastic materialen (PLA, PETG, ABS, TPU). Hiervoor heb je een digitaal ontwerp nodig (STL) dat dmv een slicer naar de 3d printer gestuurd word. 
 
 Voor het ontwerpen van een digitaal ontwerp kun je eigenlijk elk programma gebruiken die kan exporteren naar STL. Enkele veel gebruikte programma’s
 * [TinkerCad](https://www.tinkercad.com/) : eenvoudig in gebruik (digitale blokkendoos), hierdoor ook beperkt kwa ontwerp-mogelijkheden. Web based, gratis te gebruiken.
@@ -26,32 +31,52 @@ Nadat je een ontwerp heb gemaakt moet je de STL het slicen naar g-code, hiervoor
 
 De gemaakte g-code moet als laatste stop door de printer worden afgedrukt, dit gaat meestal dmv een SD kaart.
 
-### 3d printers bij TkkrLab
+## Kosten voor deelnemers
+Prijs van filament per gram is € 0,?? . In je slicer kun je zien hoeveel gram de printer nodig heeft. We hebben bij TkkrLab diverse kleuren PLA beschikbaar.
+
+## 3d printers bij TkkrLab
 * [Ultimaker original](/gereedschappen/ultimaker/)
 
-## Internet bronnen
-* [TkkrLab online workshop](https://www.youtube.com/watch?v=c420UUFpsl0)
-* [Thomas Sanladerer](https://www.youtube.com/watch?v=nb-Bzf4nQdE&list=PLDJMid0lOOYnkcFhz6rfQ6Uj8x7meNJJx)
+## Internet bronnen 3d printen
+* [TkkrLab online workshop](https://www.youtube.com/watch?v=c420UUFpsl0) Uitleg basis 3d printer en tinkercad (online 3D ontwerp programma)
+* [Thomas Sanladerer](https://www.youtube.com/watch?v=nb-Bzf4nQdE&list=PLDJMid0lOOYnkcFhz6rfQ6Uj8x7meNJJx) Basis workshop 3d printers / slicers
+* [Thingiverse](https://www.thingiverse.com/) Download STL ontwerp, ook goede plek voor inspiratie.
 
 # Lasercutter
 
-Met een lasercutter kun je heel precies snijden in vlakke materialen. Het meest gebruikte materiaal in lasercutter is triplex tussen de 3-5mm dik of acrylaat (ook bekend onder de naam PPMA, plexiglas)
+Met een lasercutter kun je heel precies snijden in vlakke materialen. Het meest gebruikte materiaal in lasercutter is triplex tussen de 3-6mm dik of acrylaat (ook bekend onder de naam PPMA, plexiglas)
 
 Ook voor de lasercutter moet je een digitaal ontwerp hebben. Voor onze lasercutter werken we met Lightburn om de laser aan te sturen, deze kan svg, dfx, ai en andere vector bestanden importeren.
 
 Om zelf een ontwerp te maken kan dus met een programma die een van de bovenstaande formats kan opslaan. Binnen TkkrLab werken we het liefst met svg, omdat je met Inkscape hiervoor eenvoudig een ontwerp kunt maken.
 
-Je hoeft niet alles zelf te ontwerpen, voor bijvoorbeeld doosjes heb je hele goede box generators. Je geeft hierbij de maten aan en met een paar muisklikken heb je een basis ontwerp die je nog naar je eigen wensen kunt aanpassen.
+Je hoeft niet alles zelf te ontwerpen, voor bijvoorbeeld doosjes heb je hele goede online box generators. Je geeft hierbij de maten aan en met een paar muisklikken heb je een basis ontwerp die je nog naar je eigen wens kunt aanpassen.
+
+## Kosten voor deelnemers
+Alle onze platen hebben de maximale afmeting van de laser (30x40cm)
+* triplex 3 mm 
+* triplex 6 mm 
+* transparant arcylaat 3mm 
 
 ## Lasercutter bij TkkrLab 
-* [CW3040 40Watt](/gereedschappen/lasercutter-cw3040/)
+* [CW3040 40Watt](/gereedschappen/lasercutter-cw3040/) 30x40cm 40Watt
 
-### Internet bronnen 
+## Internet bronnen lasercutter
 * [TkkrLab online workshop](https://www.youtube.com/watch?v=JtGMao8C_nw)
 * [Logo’s by Nick](https://www.youtube.com/channel/UCEQXp_fcqwPcqrzNtWJ1w9w)
 * [Inkscape](https://inkscape.org/) 
 * [Lightburn](https://lightburnsoftware.com/) (30 dagen test versie)
 * [Box.py boxmaker](https://festi.info/boxes.py/)
+* [Kunstofplatenshop](https://kunststofplatenshop.nl/plexiglas-plaat/) webshop op maat acryl platen
+
+# Folie Snijder
+Met een folie snijder kun je PVC sticker of t-shirt bedrukkingen maken. Hiervoor heb je een svg vector ontwerp nodig die je kunt importeren op 'Silhouette Studio' en naar de folie snijder kunt sturen. Je kunt ook met meerdere kleuren werken door de verschillende lagen op elkaar te plakken.
+
+Voor het ontwerpen zelf kun je gebruik maken van inkscape, zie bij de uitleg van de lasercutter voor meer informatie over inkscape.
+
+## Foliesnijder bij TkkrLab 
+* [Silhouette Cameo 3](/gereedschappen/silhouette/)
+
 
 # Arduino / Electronica 
 
@@ -61,17 +86,33 @@ De arduino is niet alleen de electronica board maar een heel ecosysteem dat inmi
 
 Als je eenmaal een electronica ontwerp heb gemaakt zou je een PCB willen ontwerpen zodat je hierop alle componenten kunt plaatsen. Je kunt een ontwerp maken met [KiCad](https://www.kicad.org/) (open source). Tegenwoordig is het zo makkelijk geworden om deze op te sturen en een paar dagen later je ontwerp thuis te hebben dat we zelf geen PCB meer etsen/frezen.
 
-### Internet bronen
+## Kosten voor deelnemers
+Je mag een Arduino voor de workshop gratis lenen, hieraan zijn geen kosten verbonden. Indien je een Arduino of componenten wil gaan gebruiken in je eigen project zul je zelf een exemplaar moeten kopen. Uitzondering hierop is voor kleine componenten die we op voorraad hebben, deze mag je gratis verbruiken.
+
+## Internet bronen Arduino
 * [TkkrLab workshop](https://arduino.tkkrlab.space/)
 * [Arduino.cc](https://www.arduino.cc/)
+* [Arduino voorbeeld projecten](https://create.arduino.cc/projecthub/projects/tags/arduino)
 * [Nederlandstalige Arduino forum](https:/arduinoforum.nl)
 
+# Programmeren
+Programmeren is ook een belangrijk onderdeel om iets te kunnen maken, ook als je geen micro controller gebruikt. Je kunt hiermee je eigen applicaties maken of routine matig werk automatiseren. Een beetje basiskennis van wat programmeren is en wat je er mee kunt komt altijd van pas.
+
+We krijgen vaak de vraag wat de 'beste' programmeertaal is om te leren. De uitdaging is dat iedere taal zijn eigen (optimale) toepassing heeft. Zo is C/C++ vooral geschikt voor hardware aansturing (dus bv Arduino & ESP), javascript voor webtoepassingen, etc. Dat gezegt hebbende zou je pythonscript kunnen gebruiken voor hardware aansturing of andersom C++ voor een webapplicatie. Dat maakt het wat lastig om een universele antwoord te geven wat de beste taal is, dit is afhankelijk van je toepassing. 
+
+Als je niet weet in welke taal je zou moeten beginnen zouden we phython adviseren. Dit is een veelzijdige, moderne taal waarmee je eigenlijk niet mis kan gaan. Het is op veel systemen beschikbaar en ook geschikt om diverse hardware aan te sturen (pythonscript). Alle concepten die je hier leert zijn ook in de meeste andere programmeertalen aanwezig.
+
+Hieronder staan enkele zelfstudie bronnen, indien je vastloopt met een van deze tutorials zijn er bij TkkrLab genoeg deelnemers die je verder zouden kunnen helpen.
+
+### Internet bronen programmeren
+* [freecodecamp](https://www.freecodecamp.org/) Gratis tutorials.
+* [Udemy](https://www.udemy.com/) Commerciele aanbieder van veel trainingen.
 
 # CNC 
 
 Met de cnc kun je uit een blok materiaal materiaal verwijderen totdat je de gewenste form overhoud. Dit kan zowel in 2D als 3D vlak, afhankelijk van je wensen en beschikbare materialen.
 Geschikt voor POM plastic, aluminium, hout, en andere (technische) materialen die niet te hard zijn.
-Ook hier moet je een digitaal ontwerp maken en via gcode sturen naar de cnc. Hiervoor is Fusion 360 geschikt (de CAM module).
+Ook hier moet je een digitaal ontwerp maken en via gcode sturen naar de cnc. Hiervoor is Fusion 360 geschikt (de CAM module) om g-code te maken, met BCNC kun je het naar de CNC sturen.
 
-### CNC bij tkkrlab
-* [CNC](/gereedschappen/cnc/)
+## CNC bij tkkrlab
+* [CNC](/gereedschappen/cnc/) 50x50x10cm 5400 rpm spindle

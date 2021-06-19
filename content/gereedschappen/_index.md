@@ -37,9 +37,16 @@ Ga met het gereedschap om zoals het bedoeld is, mocht je niet weten hoe iets wer
  * Electronica componenten zoals de nodige grijpvoorraad, arduino's etc. 
 
 ## Werkplaats
+De apparatuur in onze werkplaats is vooral bedoeld voor bewerken van hout.
  * [Lasercutter (30x40cm 40W)](lasercutter-cw3040)
- * [Grote CNC](CNC) 
+ * [Grote CNC freesmachine](CNC) 
  * Zaagtafel
  * Lintzaag
  * Kolomboor
- * diverse handgereedschap
+ * Bovenfrees
+ * Decoupeerzaag
+ * Bandschuurmachines
+ * Cirkelzaag
+ * Afkortzaag
+ * Diverse schuurmachines
+ * Diverse handgereedschap

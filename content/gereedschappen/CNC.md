@@ -1,5 +1,5 @@
 ---
-title: "CNC"
+title: "CNC freesmachine"
 date: 2021-01-01
 weight: 50
 ---

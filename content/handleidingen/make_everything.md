@@ -17,6 +17,8 @@ Bij TkkrLab kun je als deelnemer gratis gebruik maken van de apparatuur, de verb
 
 # 3d printen
 
+ ![Ultimaker](/images/Ultimaker_vooraanzicht.png)
+
 Met een 3d printer kun je complexe vormen maken met diverse plastic materialen (PLA, PETG, ABS, TPU). Hiervoor heb je een digitaal ontwerp nodig (STL) dat dmv een slicer naar de 3d printer gestuurd word. 
 
 Voor het ontwerpen van een digitaal ontwerp kun je eigenlijk elk programma gebruiken die kan exporteren naar STL. Enkele veel gebruikte programma’s
@@ -32,10 +34,12 @@ Nadat je een ontwerp heb gemaakt moet je de STL slicen naar g-code ('vertalen' v
 De gemaakte g-code moet als laatste stap door de printer worden afgedrukt, dit gaat meestal door de g-code op een SD kaart te zetten en deze in de 3d printer te doen.
 
 ## Kosten voor deelnemers
-Prijs van filament per gram is € 0,?? . In je slicer kun je zien hoeveel gram de printer nodig heeft. We hebben bij TkkrLab diverse kleuren PLA beschikbaar.
+Prijs voor PLA filament (diverse kleuren) per gram is € 0,04 . In je slicer kun je zien hoeveel gram de printer nodig heeft.
 
 ## 3d printers bij TkkrLab
 * [Ultimaker original](/gereedschappen/ultimaker/)
+* [Up Mini](/gereedschappen/up-mini/)
+* Prusa Mini (Soon (tm))
 
 ## Internet bronnen 3d printen
 * [TkkrLab online workshop](https://www.youtube.com/watch?v=c420UUFpsl0) Uitleg basis 3d printer en tinkercad (online 3D ontwerp programma)
@@ -43,6 +47,8 @@ Prijs van filament per gram is € 0,?? . In je slicer kun je zien hoeveel gram 
 * [Thingiverse](https://www.thingiverse.com/) Download STL ontwerp, ook goede plek voor inspiratie.
 
 # Lasercutter
+
+![Lasercutter CW3040 TkkrLab](/images/TkkrLab_Laser_Cutter_CW3040.jpg)
 
 Met een lasercutter kun je heel precies snijden in vlakke materialen. Het meest gebruikte materiaal in lasercutter is triplex tussen de 3-6mm dik of acrylaat (ook bekend onder de naam PPMA, plexiglas)
 
@@ -52,11 +58,10 @@ Om zelf een ontwerp te maken kan dus met een programma die een van de bovenstaan
 
 Je hoeft niet alles zelf te ontwerpen, voor bijvoorbeeld doosjes heb je hele goede online box generators. Je geeft hierbij de maten aan en met een paar muisklikken heb je een basis ontwerp die je nog naar je eigen wens kunt aanpassen.
 
-## Kosten voor deelnemers
-Alle onze platen hebben de maximale afmeting van de laser (30x40cm)
-* triplex 3 mm 
-* triplex 6 mm 
-* transparant arcylaat 3mm 
+#### Kosten voor deelnemers
+Alle onze platen hebben de maximale afmeting van de laser (30x40cm). Check eerst of we het materiaal dat je wil gebruiken op voorraad hebben.
+* triplex 3/4 mm  - € 2,00
+* transparant arcylaat ( 2 mm - € 3,00 / 3mm - € 4,00 / 4mm - € 5,00 / zwart 2mm - € 3,00)  
 
 ## Lasercutter bij TkkrLab 
 * [CW3040 40Watt](/gereedschappen/lasercutter-cw3040/) 30x40cm 40Watt
@@ -65,11 +70,14 @@ Alle onze platen hebben de maximale afmeting van de laser (30x40cm)
 * [TkkrLab online workshop](https://www.youtube.com/watch?v=JtGMao8C_nw)
 * [Logo’s by Nick](https://www.youtube.com/channel/UCEQXp_fcqwPcqrzNtWJ1w9w)
 * [Inkscape](https://inkscape.org/) 
-* [Lightburn](https://lightburnsoftware.com/) (30 dagen test versie)
+* [Lightburn](https://lightburnsoftware.com/) (gratis 30 dagen test versie)
 * [Box.py boxmaker](https://festi.info/boxes.py/)
-* [Kunstofplatenshop](https://kunststofplatenshop.nl/plexiglas-plaat/) webshop op maat acryl platen
+* [Kunstofplatenshop](https://kunststofplatenshop.nl/plexiglas-plaat/) webshop voor acryl platen (op maat gesneden).
 
 # Folie Snijder
+
+ ![Silhouette](/images/Silhouette-Cameo-3.jpg)
+
 Met een folie snijder kun je PVC sticker of t-shirt bedrukkingen maken. Hiervoor heb je een svg vector ontwerp nodig die je kunt importeren op 'Silhouette Studio' en naar de folie snijder kunt sturen. Je kunt ook met meerdere kleuren werken door de verschillende lagen op elkaar te plakken.
 
 Voor het ontwerpen zelf kun je gebruik maken van inkscape, zie bij de uitleg van de lasercutter voor meer informatie over inkscape.
@@ -86,7 +94,7 @@ De arduino is niet alleen de electronica board maar een heel ecosysteem dat inmi
 
 Als je eenmaal een electronica ontwerp heb gemaakt zou je een PCB willen ontwerpen zodat je hierop alle componenten kunt plaatsen. Je kunt een ontwerp maken met [KiCad](https://www.kicad.org/) (open source). Tegenwoordig is het zo makkelijk geworden om deze op te sturen en een paar dagen later je ontwerp thuis te hebben dat we zelf geen PCB meer etsen/frezen.
 
-## Kosten voor deelnemers
+#### Kosten voor deelnemers
 Je mag een Arduino voor de workshop gratis lenen, hieraan zijn geen kosten verbonden. Indien je een Arduino of componenten wil gaan gebruiken in je eigen project zul je zelf een exemplaar moeten kopen. Uitzondering hierop is voor kleine componenten die we op voorraad hebben, deze mag je gratis verbruiken.
 
 ## Internet bronen Arduino
@@ -108,7 +116,9 @@ Hieronder staan enkele zelfstudie bronnen, indien je vastloopt met een van deze 
 * [freecodecamp](https://www.freecodecamp.org/) Gratis tutorials.
 * [Udemy](https://www.udemy.com/) Commerciele aanbieder van veel trainingen.
 
-# CNC 
+# CNC freesmachine
+
+![CNC](/images/Big_CNC_machine_Picture.jpg)
 
 Met de cnc kun je uit een blok materiaal materiaal verwijderen totdat je de gewenste form overhoud. Dit kan zowel in 2D als 3D vlak, afhankelijk van je wensen en beschikbare materialen.
 Geschikt voor POM plastic, aluminium, hout, en andere (technische) materialen die niet te hard zijn.

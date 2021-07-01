@@ -17,7 +17,7 @@ Bij TkkrLab kun je als deelnemer gratis gebruik maken van de apparatuur, de verb
 
 # 3d printen
 
- ![Ultimaker](/images/Ultimaker_vooraanzicht.png)
+ ![Hackerspace TkkrLab Prusa mini+](/images/prusa_mini_tkkrlab.jpg)
 
 Met een 3d printer kun je complexe vormen maken met diverse plastic materialen (PLA, PETG, ABS, TPU). Hiervoor heb je een digitaal ontwerp nodig (STL) dat dmv een slicer naar de 3d printer gestuurd word. 
 
@@ -29,7 +29,7 @@ Voor het ontwerpen van een digitaal ontwerp kun je eigenlijk elk programma gebru
 * [Blender](https://www.blender.org/) : Meer bedoeld voor organisch modelleren en animeren van video. Open source.
 * [OnShape](https://www.onshape.com/en/) : online web CAD programma, geschikt voor (complex) technische tekeningen.
 
-Nadat je een ontwerp heb gemaakt moet je de STL slicen naar g-code ('vertalen' voor de betreffende 3d printer), hiervoor kun je [Cura](https://ultimaker.com/software/ultimaker-cura) of [PrusaSlicer](https://www.prusa3d.com/prusaslicer/) gebruiken. Beide zijn open source en gratis te downloaden. Ze ondersteunen ook diverse 3d printers (zodat je niet zelf een profiel hoeft aan te maken).
+Nadat je een ontwerp heb gemaakt moet je de STL slicen naar g-code ('vertalen' voor de betreffende 3d printer), hiervoor kun je [PrusaSlicer](https://www.prusa3d.com/prusaslicer/) of [Cura](https://ultimaker.com/software/ultimaker-cura) gebruiken. Beide zijn open source en gratis te downloaden. Ze ondersteunen ook diverse 3d printers (zodat je niet zelf een profiel hoeft aan te maken).
 
 De gemaakte g-code moet als laatste stap door de printer worden afgedrukt, dit gaat meestal door de g-code op een SD kaart te zetten en deze in de 3d printer te doen.
 
@@ -37,9 +37,9 @@ De gemaakte g-code moet als laatste stap door de printer worden afgedrukt, dit g
 Prijs voor PLA filament (diverse kleuren) per gram is € 0,04 . In je slicer kun je zien hoeveel gram de printer nodig heeft.
 
 ## 3d printers bij TkkrLab
+* [Prusa Mini+](/gereedschappen/prusa-mini/)
 * [Ultimaker original](/gereedschappen/ultimaker/)
 * [Up Mini](/gereedschappen/up-mini/)
-* Prusa Mini (Soon (tm))
 
 ## Internet bronnen 3d printen
 * [TkkrLab online workshop](https://www.youtube.com/watch?v=c420UUFpsl0) Uitleg basis 3d printer en tinkercad (online 3D ontwerp programma)
@@ -124,5 +124,5 @@ Met de cnc kun je uit een blok materiaal materiaal verwijderen totdat je de gewe
 Geschikt voor POM plastic, aluminium, hout, en andere (technische) materialen die niet te hard zijn.
 Ook hier moet je een digitaal ontwerp maken en via gcode sturen naar de cnc. Hiervoor is Fusion 360 geschikt (de CAM module) om g-code te maken, met BCNC kun je het naar de CNC sturen.
 
-## CNC bij tkkrlab
+## CNC bij TkkrLab
 * [CNC](/gereedschappen/cnc/) 50x50x10cm 5400 rpm spindle

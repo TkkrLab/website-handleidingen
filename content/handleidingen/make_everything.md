@@ -38,7 +38,6 @@ Prijs voor PLA filament (diverse kleuren) per gram is € 0,04 . In je slicer ku
 
 ## 3d printers bij TkkrLab
 * [Prusa Mini+](/gereedschappen/prusa-mini/)
-* [Ultimaker original](/gereedschappen/ultimaker/)
 * [Up Mini](/gereedschappen/up-mini/)
 
 ## Internet bronnen 3d printen
@@ -73,6 +72,7 @@ Alle onze platen hebben de maximale afmeting van de laser (30x40cm). Check eerst
 * [Lightburn](https://lightburnsoftware.com/) (gratis 30 dagen test versie)
 * [Box.py boxmaker](https://festi.info/boxes.py/)
 * [Kunstofplatenshop](https://kunststofplatenshop.nl/plexiglas-plaat/) webshop voor acryl platen (op maat gesneden).
+* Overzicht beschikbare [lasercutters](http://www.chainlab.nl/) in Enschede.
 
 # Folie Snijder
 
@@ -124,5 +124,6 @@ Met de cnc kun je uit een blok materiaal materiaal verwijderen totdat je de gewe
 Geschikt voor POM plastic, aluminium, hout, en andere (technische) materialen die niet te hard zijn.
 Ook hier moet je een digitaal ontwerp maken en via gcode sturen naar de cnc. Hiervoor is Fusion 360 geschikt (de CAM module) om g-code te maken, met BCNC kun je het naar de CNC sturen.
 
-## CNC bij TkkrLab
-* [CNC](/gereedschappen/cnc/) 50x50x10cm 5400 rpm spindle
+## CNC's bij TkkrLab
+* [Kleine CNC](/gereedschappen/cnc_zen/) 7"x7"x2" inch
+* [Grote CNC](/gereedschappen/cnc/) 50x50x10cm 5400 rpm spindle

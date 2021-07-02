@@ -12,8 +12,8 @@ Ga met het gereedschap om zoals het bedoeld is, mocht je niet weten hoe iets wer
  * 3d Printers
    * 2 x [Prusa Mini](prusa-mini)
    * [Up Mini](up-mini)
-   * [Ultimaker original](ultimaker)
  * [Silhouette Cameo 3](silhouette) Folie snijder
+ * [Kleine CNC](/gereedschappen/cnc_zen/)
  * Reflow T962A oven voor SMD componenten. 
  * Naaimachine : Singer Serenade 10
  * Lijmpistool

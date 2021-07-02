@@ -1,7 +1,7 @@
 ---
 title: "Lasercutter CW3040"
 date: 2020-06-10
-weight: 5
+weight: 2
 ---
 
 ![Lasercutter CW3040 TkkrLab](/images/TkkrLab_Laser_Cutter_CW3040.jpg)
@@ -107,11 +107,11 @@ De laser kan de volgende materialen snijden:
 
 #### Laser starten
 
-Voordat je kunt snijden moet de afzuiging aangezet worden. Hiervoor moet eerst het raam open, en de buis op het raam worden aangesloten. Hierna kun je de stroom op de laser aansluiten en de afzuiging aan zetten. De laser heeft 2 schakelaars. Op de achterzijde zit een conventionele schakelaar. Op de bovenzijde zit een zwarte drukknop die je uit moet trekken om de laser aan te zetten. Onder de tafel staat een laptop die aangezet moet worden. De aan/uit knop van de laptop zit aan de binnenzijde. Houdt er rekening mee dat de laptop circa 2 minuten nodig heeft om op te starten.
+Voordat je kunt snijden moet de afzuiging aangezet worden. 
 
-![Lasercutter CW3040 TkkrLab](/images/TkkrLab_Laser_Raam_open1.jpg)
+TODO voor nieuwe space nog te documenteren.
 
-![Lasercutter CW3040 TkkrLab](/images/TkkrLab_Laser_Raam_open2.jpg)
+De laser heeft 2 schakelaars. Op de achterzijde zit een conventionele schakelaar. Op de bovenzijde zit een zwarte drukknop die je uit moet trekken om de laser aan te zetten. Onder de tafel staat een laptop die aangezet moet worden. De aan/uit knop van de laptop zit aan de binnenzijde. Houdt er rekening mee dat de laptop circa 2 minuten nodig heeft om op te starten.
 
 #### Bedhoogte instellen
 
@@ -128,7 +128,3 @@ Stuur je opdracht naar de laser. Blijf ALTIJD bij de laser!!!!!
 #### Afsluiten
 
 Om de laser af te sluiten kun je op de zwarte knop op de laser drukken. De schakelaar op de achterzijde hoeft niets uitgeschakeld te worden. De laptop kan afgesloten worden. De buis moet van het raam worden gehaald en het raam moet worden gesloten. Nu kan de stroom met het stekkerblok van de laser gehaald worden.
-
-
-
-

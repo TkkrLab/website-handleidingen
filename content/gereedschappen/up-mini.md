@@ -13,7 +13,7 @@ De UP! Mini is gedoneerd aan het Tkkrlab door Mark Lenderink
  * Afmetingen: 120x120x120mm
  * Filament maat: 1.75mm
  * Materialen: ABS (anderen niet ondersteund)
- * Nozzle grootte: 0.5mm(?)
+ * Nozzle grootte: 0.4mm
  * Verwarmd printbed: Ja
  * Verwarmde kamer: (Pasief) 
  * Ventilatie: Hepa en actieve koolstof

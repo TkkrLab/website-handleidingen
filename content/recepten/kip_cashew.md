@@ -1,6 +1,6 @@
 ---
 title: "Kip cashew met rijst en groente"
-date: 2021-07-14
+date: 2021-07-13
 weight: 5
 ---
 

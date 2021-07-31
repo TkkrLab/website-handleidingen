@@ -7,11 +7,12 @@ weight: 20
 
  ![Silhouette](/images/Silhouette-Cameo-3.jpg)
 
-De Silhouette Cameo 3 van TkkrLab (overgenomen van TwenSpace).
+De Silhouette Cameo 3 van TkkrLab
   
 ## Specificaties
  * Max breedte 30 cm
  * Snijmat 30cm of 48 cm ( 12 Inch )
+ * Mogelijkheid voor losse rollen/vellen (max 30cm breed)
  * Houder voor 2 mesjes (Dual Carriage)
  * Autoblade (mesje is instelbaar via software)
 
@@ -35,16 +36,16 @@ In het 'Design' gedeelte maak je ontwerp (en importeer je ontwerp).
 
 In het 'Send' gedeelte stuur je je ontwerp naar de snijder. 
 
-## Test
+#### Test
 Rechts onderaan het je een test knop. Dit zal een klein vierkantje uitsnijden en testen of je hiermee de goede instellingen hebt. De goede instelling is dat je wel door vinyl gaat maar niet door het papier/onderlaag. Het vinyl moet dan makkelijk te verwijderen zijn. 
 
-## Material
+#### Material
 Het materiaal waarmee je gaat snijden en dus de instellingen van je mes. Er zijn vele materialen voorgedefineerd, je kunt hiervan een selecteren bijvoorbeeld 'Vynil, Matte'.
 
-## Tool
+#### Tool
 We hebben een autoblade, dus hierop laten staan.
 
-## Send
+#### Send
 Selecteer de juiste printer (links van Send staat printer icoon, klik hierop). Als je alles goed heb staan kun je op 'Send' drukken. De foliesnijder gaat nu je ontwerp uitsnijden.
 
 ## Materiaal laden / ontladen

@@ -19,16 +19,33 @@ De Silhouette Cameo 3 van TkkrLab (overgenomen van TwenSpace).
 
 Op de 3d printer pc staat Robocut, dit is een heel eenvoudig programma om de vinyl cutter aan te gebruiken.
 
-Als je op eigen systeem wil werken is het hangste dat je [Silhouette Studio](https://www.silhouetteamerica.com/software) installeert (helaas alleen voor Windows/MAC). Met deze software kun je zelf een ontwerp maken, standaard is het niet mogelijk om een SVG te importeren. Hiervoor moet je upgraden naar Design Edition (bestuur heeft een kode die je kunt gebruiken).
+Als je op eigen systeem wil werken is het hangste dat je [Silhouette Studio](https://www.silhouetteamerica.com/software) installeert (helaas alleen voor Windows/MAC). Met deze software (Basis Edition) kun je zelf een ontwerp maken, standaard is het niet mogelijk om een SVG te importeren. 
 
-Alternatief zou je commercieel programma [Sure Cut a Lot](http://surecutsalot.com/software/software_scal.html) kunnen gebruiken, deze ondersteund ook de Silhouette maar ik (Dave) heb geen ervaring met deze combinatie.
+Silhouette Studio staat ook op de windows pc naast de 3d printer. Hierop is de licentie geinstalleerd voor Design Edition, waardoor het mogelijk is om een SVG te importeren. 
 
 Als je meer instellingsopties op linux nodig hebt zou je kunnen kijken naar 
  [InkCut](https://github.com/inkcut/inkcut) of andere oplossingen.
 
 ## Printen
+Laad je ontwerp / maak je ontwerp in Silhouette Studio. Let hierop dat het 'papier' waarop je gaat snijden groot genoeg is voor je ontwerp (vooral als je een losse pvc vinyl rol gebruikt).
 
+Links boven zijn een aantal tabbladen die de diverse onderdelen van het programma is. 
 
+In het 'Design' gedeelte maak je ontwerp (en importeer je ontwerp).
+
+In het 'Send' gedeelte stuur je je ontwerp naar de snijder. 
+
+## Test
+Rechts onderaan het je een test knop. Dit zal een klein vierkantje uitsnijden en testen of je hiermee de goede instellingen hebt. De goede instelling is dat je wel door vinyl gaat maar niet door het papier/onderlaag. Het vinyl moet dan makkelijk te verwijderen zijn. 
+
+## Material
+Het materiaal waarmee je gaat snijden en dus de instellingen van je mes. Er zijn vele materialen voorgedefineerd, je kunt hiervan een selecteren bijvoorbeeld 'Vynil, Matte'.
+
+## Tool
+We hebben een autoblade, dus hierop laten staan.
+
+## Send
+Selecteer de juiste printer (links van Send staat printer icoon, klik hierop). Als je alles goed heb staan kun je op 'Send' drukken. De foliesnijder gaat nu je ontwerp uitsnijden.
 
 ## Materiaal laden / ontladen
 

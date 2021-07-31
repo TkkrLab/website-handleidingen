@@ -20,6 +20,8 @@ weight: 5
 
 Het mooie van een Prusa printer is dat je de Prusa Slicer kunt gebruiken, hierin is de prusa mini al helemaal voorgedefinieerd en kun je deze meteen gebruiken. Je kunt de [Prusa Slicer hier downloaden](https://www.prusa3d.com/prusaslicer/), installeer deze op je eigen systeem. Als je het de eerste keer start zal die vragen welke printer je hebt, selecteer hier Prusa Mini.
 
+De prusa slicer staat ook op het windows systeem naast de 3d printers, dus je kunt ook hierop de g-code genereren.
+
 Binnen de prusa slicer selecteer het object wat je wil printen. Je kunt verder de defaults aanhouden, dit zijn wel goede waarden. Indien je wilt kun je hiervan natuurlijk afwijken.
 
 ### Basis instelling voor slicen 
@@ -59,9 +61,14 @@ Druk filament in de buis tot die niet verder gaat. Geef op de printer aan dat fi
 Als filament is geladen kun je de print gaan starten
 
 ### Printen G-code
-Selecteer gcode model op Prusa Mini+ en 'print'. 
+Selecteer gcode model op Prusa Mini+ en selecteer 'Print' in het menu.
+
+Printer zal eerst de temperatuur van kop en bed verwarmen, bed gaan levelen en dan gaan printen.
 
 Als je een printopdracht in de printer aanzet is het verstandig om de eerste printlaag goed in de gaten te houden, als deze misgaat kun je het beste meteen opnieuw opstarten. Hierna is het verstandig om de print met 1 oog in de gaten houden (check iedere 30 min oid). Bij TkkrLab mag je niet de printer laten draaien als je niet meer aanwezig bent. Eventueel kun je iemand anderes vragen om je print in de gaten houden, dat moet je dan zelf met die persoon overleggen. Je kunt dus niet een opdracht aanzetten, weggaan en volgende dag ophalen.
 
 ## Ander materiaal laden
-Via menu kies 'Change filament', de printer begeleid je dan door de stappen.
+Via menu kies 'Fillament' -> 'Change filament', de printer begeleid je dan door de stappen.
+
+## Afsluiten printen
+Als je klaar bent met printen zet dan niet zomaar de printer uit. Als je dit doet kan het zijn dat er 'heatcreep' plaats vind, dus dat de hitte van de heater naar boven kruipt. Hierdoor kan de kop verstopt raken waardoor je niet meer kunt printen. Laat de printer kop afkoelen tot kamertemperatuur en zet het dan pas uit. 

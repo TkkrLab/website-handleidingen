@@ -1,3 +1,8 @@
+---
+title: "Elektrische installatie"
+date: 2021-08-01
+weight: 30
+---
 
 # Elektrische installatie space 6 (Marssteden)
 

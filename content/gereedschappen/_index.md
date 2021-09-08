@@ -39,7 +39,7 @@ Ga met het gereedschap om zoals het bedoeld is, mocht je niet weten hoe iets wer
 ## Werkplaats
 De apparatuur in onze werkplaats is vooral bedoeld voor bewerken van hout.
  * [Lasercutter (30x40cm 40W)](lasercutter-cw3040)
- * [Grote CNC freesmachine](CNC) 
+ * [Grote CNC freesmachine](cnc) 
  * Zaagtafel
  * Lintzaag
  * Kolomboor

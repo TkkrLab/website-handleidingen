@@ -7,6 +7,8 @@ theme = "tkkrlab-docs"
 enableRobotsTXT = true
 canonifyURLs = true
 
+DefaultContentLanguage= "nl"
+
 [Params]
   subtitle = ""
   description = "TkkrLab hackerspace"
@@ -35,3 +37,12 @@ home = [ "HTML", "RSS", "JSON"]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+
+[languages]
+  [languages.nl]
+    languageName = 'Nederlands'
+    weight= 1
+  [languages.en]
+    languageName = 'English'
+    weight= 2

@@ -113,3 +113,6 @@ a:hover {
     border-color: var(--MENU-SECTION-HR-color);
 }
 
+#prefooter {
+    margin-top: -3em;
+}

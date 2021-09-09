@@ -40,7 +40,7 @@ In het 'Send' gedeelte stuur je je ontwerp naar de snijder.
 Rechts onderaan het je een test knop. Dit zal een klein vierkantje uitsnijden en testen of je hiermee de goede instellingen hebt. De goede instelling is dat je wel door vinyl gaat maar niet door het papier/onderlaag. Het vinyl moet dan makkelijk te verwijderen zijn. 
 
 #### Material
-Het materiaal waarmee je gaat snijden en dus de instellingen van je mes. Er zijn vele materialen voorgedefineerd, je kunt hiervan een selecteren bijvoorbeeld 'Vynil, Matte'.
+Het materiaal waarmee je gaat snijden en dus de instellingen van je mes. Er zijn vele materialen voorgedefineerd, je kunt hiervan een selecteren bijvoorbeeld 'Vinyl, Matte'.
 
 #### Tool
 We hebben een autoblade, dus hierop laten staan.
@@ -53,3 +53,23 @@ Selecteer de juiste printer (links van Send staat printer icoon, klik hierop). A
 Om materiaal te laden moet je een beetje handigheid ontwikkelen. Let er vooral op dat het materiaal recht in de cutter gaat, anders heb je (vooral met grote opdrachten) hier later last van.
 
 Aan de zijkanten van de roller zitten wieltjes je je los kunt maken en verschuiven op de as.
+
+## Heat transfer folie voor T-Shirt
+
+Werken met textiel folie moet je een paar dingen in de gaten houden. 
+
+#### Let op !! Het snijden moet in spiegelbeeld !!
+
+Importeer je ontwerp in Design studio, selecteer materiaal 'Heat tranfer, Fabric'. Plak de folie met doffe kant naar boven op de Silhouette snijmat en doe deze in de folie snijder. Verstuur de opdracht naar de snijder.
+
+Verwijder de negatieve film (dus de stukken die niet nodig hebt) en laat alleen het gewenste afbeelding op de materiaal achter. Maklijkste gaat dit met een tandarts haakje, pincet en scherp mesje.
+
+Zet je strijkijzer op de Wolstand. Zorg ervoor dat de stoominstelling UIT staat voor stoomstrijkijzers. Gebruik het strijkijzer om het gebied van het materiaal waar u uw gesneden afbeelding aanbrengt, 10 seconden voor te verwarmen.
+
+Plaats de folie, met de lijm/matte kant naar onderen, op het voorverwarmde materiaal. Oefen middelmatige druk uit met het strijkijzer gedurende 25 tot 30 seconden.
+
+Draai het materiaal om en oefen nog 25 tot 30 seconden middelmatige druk uit met het strijkijzer.
+
+Laat het helemaal afkoelen en verwijder het bescherm plastic voorzichtig. Dit word "cool peel" genoemd.
+
+Folie kun je natuurlijk in verschillende webshops kopen, ik (Dave) heb goede ervaring met [Decorabel webshop](https://www.decorabel.nl/webshop/flex-flock/siser/p-s-film-basic/siser-ps-film-wit-a0001/).

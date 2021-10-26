@@ -12,8 +12,10 @@ Toestellen :
 
 1.  
 2. 
-3. 
-4. DECT
-5. DECT 
+3. Bij TV
+4. Bij Barsysteem
+5. Op houten tafels
+6. Werkplaats
+7. Presentatie ruimte
 
 Indien je een vriendelijk verkoper aan de lijn hebt kun je doorverbinding naar AaaS (Afschepen As A Service) via telefoon nummer #42

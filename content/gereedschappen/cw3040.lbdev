@@ -1,0 +1,80 @@
+{
+    "DeviceList": [
+        {
+            "DefaultCutList": [
+            ],
+            "DefaultToolCutList": [
+            ],
+            "DisplayName": "CW3040 TkkrLab",
+            "EnableLaser2Offset": false,
+            "EnableProcessOffset": false,
+            "Height": 300,
+            "HomeOnStartup": false,
+            "Info": "",
+            "Laser2OffsetX": 0,
+            "Laser2OffsetY": 0,
+            "LastCamera": "",
+            "MirrorX": true,
+            "MirrorY": true,
+            "Name": "Smoothieware",
+            "ProcessOffsetX": 0,
+            "ProcessOffsetY": 0,
+            "ReverseIntervalCompensation": false,
+            "Settings": {
+                "EnableBoundsCheck": true,
+                "EnableZ": false,
+                "EndGCode": "",
+                "FastPausing": true,
+                "LaserFire_Enable": false,
+                "Macro0_Content": "@reset\n",
+                "Macro0_Label": "Reset",
+                "NegativeZ": false,
+                "OptimizeZ": false,
+                "RelativeZOnly": false,
+                "Sim_CornerTolerance": 0.009999999776482582,
+                "Sim_FastWhiteScan": false,
+                "Sim_FastWhiteScanSpeed": 0,
+                "Sim_GlobalFactor": 1,
+                "Sim_MaxAccelX": 300,
+                "Sim_MaxAccelY": 300,
+                "Sim_MaxSpeedX": 200,
+                "Sim_MaxSpeedY": 200,
+                "Sim_MinCornerSpeed": 1,
+                "Sim_RapidSpeed": 400,
+                "Sim_ScanAccelX": 300,
+                "Sim_ScanAccelY": 300,
+                "Sim_SpeedFactor": 1,
+                "SkipWhiteFlag": false,
+                "SkipWhiteSpeed": 0,
+                "SmoothieClustering": false,
+                "StartGCode": "",
+                "TabPulseWidth": 0.05000000074505806,
+                "TransferMode": 0,
+                "UseG0ForOverscan": false,
+                "UserFinishX": 0,
+                "UserFinishY": 0,
+                "cameraIsFisheye": false,
+                "cameraMatrix": [
+                    2662.9145480635048,
+                    0,
+                    0,
+                    0,
+                    2651.486741085559,
+                    0,
+                    1630.2458986824442,
+                    1264.5925668005832,
+                    1
+                ],
+                "distortionMatrix": [
+                    0.14425672044275326,
+                    -0.0565030956554186,
+                    0.0024967927762950576,
+                    -0.00232699958849859,
+                    -0.5090125080989446
+                ]
+            },
+            "Type": "Serial",
+            "Width": 400
+        }
+    ]
+}

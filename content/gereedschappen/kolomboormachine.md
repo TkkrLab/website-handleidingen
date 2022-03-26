@@ -4,7 +4,7 @@ date: 2022-03-26
 weight: 50
 ---
 
-![Kolomboormachine](/gereedschap/images/kolomboormachine/kolomboormachine.jpg
+![Kolomboormachine](/gereedschappen/images/kolomboormachine/kolomboormachine.jpg)
 
 
 ## Specificaties

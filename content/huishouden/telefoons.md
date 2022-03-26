@@ -6,7 +6,7 @@ weight: 60
 
 ## Telefoon ##
 
-We gebruiken een astrix voip telefooncentrale voor de interne toestellen. Deze is extern bereikbaar via 053-2030532
+We gebruiken een Asterisk VoIP telefooncentrale voor de interne toestellen. Deze is extern bereikbaar via 053-2030532
 
 Toestellen :
 

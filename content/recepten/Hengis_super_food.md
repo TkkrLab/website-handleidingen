@@ -4,6 +4,8 @@ date: 2022-01-01
 weight: 5
 ---
   
+![recept](/recepten/images/spinach+_overview.jpg) 
+
 ## Ingredienten (8 small persons / 5 big persons)
  * 8 Naan breads 
  * 2 packages Spinach

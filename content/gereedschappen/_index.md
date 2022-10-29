@@ -40,6 +40,7 @@ Ga met het gereedschap om zoals het bedoeld is, mocht je niet weten hoe iets wer
 ## Werkplaats
 De apparatuur in onze werkplaats is vooral bedoeld voor bewerken van hout.
  * [Lasercutter (30x40cm 40W)](lasercutter-cw3040)
+ * [Optimum OPTimill MB 4 frees](optimum-optimill-mb-4-frees)
  * [HBM 210 Draaibank](hbm-210-draaibank)
  * Zaagtafel
  * Lintzaag

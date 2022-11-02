@@ -6,7 +6,7 @@ weight: 5
 
 ![Optimum OPTimill MB 4](/images/optimum_optimill_mb_4.jpg)
 
-## Vraag Mark als je deze machine wil gebruiken.
+## Vraag Mark als je deze machine wil gebruiken!
 
 [Handleiding Optimum Optimill MB 4](/files/optimum_optimill_mb_4.pdf)
 

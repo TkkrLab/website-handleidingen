@@ -13,7 +13,6 @@ Ga met het gereedschap om zoals het bedoeld is, mocht je niet weten hoe iets wer
    * 2 x [Prusa Mini](prusa-mini)
    * [Up Mini](up-mini)
  * [Silhouette Cameo 3](silhouette) Folie snijder
- * [Kleine CNC](/gereedschappen/cnc_zen/)
  * Reflow T962A oven voor SMD componenten. 
  * Naaimachine : Singer Serenade 10
  * Lijmpistool
@@ -42,6 +41,7 @@ De apparatuur in onze werkplaats is vooral bedoeld voor bewerken van hout.
  * [Lasercutter (30x40cm 40W)](lasercutter-cw3040)
  * [Optimum OPTimill MB 4 frees](optimum-optimill-mb-4-frees)
  * [HBM 210 Draaibank](hbm-210-draaibank)
+ * [Kleine CNC](/gereedschappen/cnc_zen/)
  * Zaagtafel
  * Lintzaag
  * Kolomboor

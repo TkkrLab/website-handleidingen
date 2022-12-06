@@ -16,6 +16,11 @@ weight: 5
 
  Meer informatie over Prusa Mini+ op site van [prusa](https://www.prusa3d.com/original-prusa-mini/)
 
+## Configureren voor TkkrLab
+Als je PrusaSlicer voor de eerste keer opstart moet je eerst een printer aanmaken. Voor TkkrLab is dat dus de 'Prusa MINI+' printer. We hebben 2 printers die je via het lokale netwerk een opdracht kunt sturen. Gebruik hiervoor de [TkkrLab bundle](/files/TkkrLab_PrusaSlicer_config_bundle.ini.zip) en importeer deze in de PrusaSlicer. Hiermee worden beide fysieke printers toegevoegd en kun je deze selecteren onder 'Printer' dropdown rechts bovenaan in de interface.
+
+
+
 ## Slicen
 
 Het mooie van een Prusa printer is dat je de Prusa Slicer kunt gebruiken, hierin is de prusa mini al helemaal voorgedefinieerd en kun je deze meteen gebruiken. Je kunt de [Prusa Slicer hier downloaden](https://www.prusa3d.com/prusaslicer/), installeer deze op je eigen systeem. Als je het de eerste keer start zal die vragen welke printer je hebt, selecteer hier Prusa Mini.

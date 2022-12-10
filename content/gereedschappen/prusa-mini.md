@@ -16,12 +16,12 @@ weight: 5
 
  Meer informatie over Prusa Mini+ op site van [prusa](https://www.prusa3d.com/original-prusa-mini/)
 
-## Configureren voor TkkrLab
-Als je PrusaSlicer voor de eerste keer opstart moet je eerst een printer aanmaken. Voor TkkrLab is dat dus de 'Prusa MINI+' printer. We hebben 2 printers die je via het lokale netwerk een opdracht kunt sturen. Gebruik hiervoor de [TkkrLab bundle](/files/TkkrLab_PrusaSlicer_config_bundle.ini.zip) en importeer deze in de PrusaSlicer. Hiermee worden beide fysieke printers toegevoegd en kun je deze selecteren onder 'Printer' dropdown rechts bovenaan in de interface.
-
 ## Slicen
 
 Het mooie van een Prusa printer is dat je de Prusa Slicer kunt gebruiken, hierin is de prusa mini al helemaal voorgedefinieerd en kun je deze meteen gebruiken. Je kunt de [Prusa Slicer hier downloaden](https://www.prusa3d.com/prusaslicer/), installeer deze op je eigen systeem. Als je het de eerste keer start zal die vragen welke printer je hebt, selecteer hier Prusa Mini.
+
+### Configureren voor TkkrLab
+Als je PrusaSlicer voor de eerste keer opstart moet je eerst een printer aanmaken. Voor TkkrLab is dat dus de 'Prusa MINI+' printer. We hebben 2 printers die je via het lokale netwerk een opdracht kunt sturen. Gebruik hiervoor de [TkkrLab bundle](/files/TkkrLab_PrusaSlicer_config_bundle.ini.zip) en importeer deze in de PrusaSlicer. Hiermee worden beide fysieke printers toegevoegd en kun je deze selecteren onder 'Printer' dropdown rechts bovenaan in de interface.
 
 De prusa slicer staat ook op het windows systeem naast de 3d printers, dus je kunt ook hierop de g-code genereren.
 
@@ -46,7 +46,7 @@ Een brim is een extra dikke rand rond het object zodat deze beter hecht. Normaal
 
 In PrusaSlicer zijn er veel meer instellingen (in totaal iets van 400), deze hoef je normaal alleen te gebruiken als je een specifiek probleem wil oplossen. Als je in de slicer met de muis op de tekst van de instelling blijft staan geeft deze een korte uitleg met link naar uitgebreide tekst.
 
-Als je alles goed hebt ingesteld kun je de code genereren met 'Export G-code' en naar USB schrijven.
+Als je alles goed hebt ingesteld kun je de code genereren met 'Export G-code' en naar USB schrijven of via het netwerk versturen.
 
 ## Printen op de Prusa Mini
 Onze printers hebben een filament sensor, dus als filament op is stopt de printer en vraagt of je weer filament wil laden. 
@@ -68,10 +68,10 @@ Selecteer gcode model op Prusa Mini+ en selecteer 'Print' in het menu.
 
 Printer zal eerst de temperatuur van kop en bed verwarmen, bed gaan levelen en dan gaan printen.
 
-Als je een printopdracht in de printer aanzet is het verstandig om de eerste printlaag goed in de gaten te houden, als deze misgaat kun je het beste meteen opnieuw opstarten. Hierna is het verstandig om de print met 1 oog in de gaten houden (check iedere 30 min oid). Bij TkkrLab mag je niet de printer laten draaien als je niet meer aanwezig bent. Eventueel kun je iemand anderes vragen om je print in de gaten houden, dat moet je dan zelf met die persoon overleggen. Je kunt dus niet een opdracht aanzetten, weggaan en volgende dag ophalen.
+Als je een printopdracht in de printer aanzet is het verstandig om de eerste printlaag goed in de gaten te houden, als deze misgaat kun je het beste meteen opnieuw opstarten. Hierna is het verstandig om de print met 1 oog in de gaten houden (check iedere 30 min oid). Als je te printen onderdeel 1cm of hoger is mag je de printer onbeheerd laten printen, doe er wel eventueel een briefje oid bij zodat men kan zien van wie de 3d print is. 
 
 ## Ander materiaal laden
 Via menu kies 'Fillament' -> 'Change filament', de printer begeleid je dan door de stappen.
 
 ## Afsluiten printen
-Als je klaar bent met printen zet dan niet zomaar de printer uit. Als je dit doet kan het zijn dat er 'heatcreep' plaats vind, dus dat de hitte van de heater naar boven kruipt. Hierdoor kan de kop verstopt raken waardoor je niet meer kunt printen. Laat de printer kop afkoelen tot kamertemperatuur en zet het dan pas uit. 
+Als je klaar bent met printen zet dan niet zomaar de printer uit. Als je dit doet kan het zijn dat er 'heatcreep' plaats vindt, dus dat de hitte van de heater naar boven kruipt. Hierdoor kan de kop verstopt raken waardoor je niet meer kunt printen. Laat de printer kop afkoelen tot kamertemperatuur en zet het dan pas uit. 

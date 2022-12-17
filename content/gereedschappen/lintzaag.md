@@ -8,5 +8,8 @@ weight: 50
 
 
 ## Specificaties
+ * Zaag hoogte 160mm (instelbaar)
+ * Blad 320x320mm
 
+## Extra informatie
 TODO...

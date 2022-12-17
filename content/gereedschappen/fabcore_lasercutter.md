@@ -1,10 +1,10 @@
 ---
 title: "Fabcreator Fabcore"
-date: 2021-06-30
+date: 2022-12-17
 weight: 5
 ---
 
-![Prusa Mini+](/images/prusa_mini_tkkrlab.jpg)
+![Fabcreator Fabcore](/images/fabcreator_fabcore.png)
 
 ## Specificaties
  * Bed Afmetingen: 600x300mm
@@ -25,7 +25,7 @@ Lightburn is een veelzijdig programma dat de laser bestanden kan voorbereiden en
 
 Lightburn staat geinstalleerd op de PC die bij de laser staat. Hier kan je met een USB stick de bestanden op de laptop zetten. 
 
-Een gedetaileerde handleiding voor lightburn kun je (hier vinden)[https://lightburnsoftware.github.io/NewDocs/BeginnerWalkthrough.html]
+Een gedetaileerde handleiding voor lightburn kun je [hier vinden](https://lightburnsoftware.github.io/NewDocs/BeginnerWalkthrough.html)
 
 Alle belangrijke menu's staan aan de rechter zijde. In 'Cuts / Layers' staan alle snedes voor elke kleur. De laser snijdt de lijst van boven naar onder. 'Library' bevat alle snedes voor alle materialen. Bij 'Laser' kun je met 'Frame' kijken waar de laser gaat snijden. 'Start' begint het snijden.
 <!-- ### Gebruik Camera -->
@@ -87,7 +87,7 @@ Stuur je opdracht met 'START' naar de laser. Blijf ALTIJD bij de laser!!!!!
 Om de laser af te sluiten kun je  TODO De PC kan afgesloten worden. Nu kan de stroom met het stekkerblok van de laser gehaald worden.
 
 # Materiaal test
-Kijk of je op het materiaal een recycle icoon of driehouk met nummer in ziet staan. Als hier nummer 3 in staat is het PVC en niet geschikt voor de laser. Voor de andere getallen zie de [wikipedia artikel](https://en.wikipedia.org/wiki/Resin_identification_code).
+Kijk of je op het materiaal een recycle icoon of driehoek met nummer in ziet staan. Als hier nummer 3 in staat is het PVC en niet geschikt voor de laser. Voor de andere getallen zie de [wikipedia artikel](https://en.wikipedia.org/wiki/Resin_identification_code).
 
 Met een [Brand test](https://www.boedeker.com/Technical-Resources/Technical-Library/Plastic-Identification) kan men aan hand van de rook, geur en manier van branden veel plastics herkennen.
 

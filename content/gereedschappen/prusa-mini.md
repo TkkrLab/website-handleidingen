@@ -23,6 +23,7 @@ Het mooie van een Prusa printer is dat je de Prusa Slicer kunt gebruiken, hierin
 ### Configureren voor TkkrLab
 Als je PrusaSlicer voor de eerste keer opstart moet je eerst een printer aanmaken. Voor TkkrLab is dat dus de 'Prusa MINI+' printer. We hebben 2 printers die je via het lokale netwerk een opdracht kunt sturen. Gebruik hiervoor de [TkkrLab bundle](/files/TkkrLab_PrusaSlicer_config_bundle.ini.zip) en importeer deze via 'File -> Import -> Import Config Bundle' in de PrusaSlicer. Hiermee worden beide fysieke printers toegevoegd en kun je deze selecteren onder 'Printer' dropdown rechts bovenaan in de interface.
 
+
 De prusa slicer staat ook op het windows systeem naast de 3d printers, dus je kunt ook hierop de g-code genereren.
 
 Binnen de prusa slicer selecteer het object wat je wil printen. Je kunt verder de defaults aanhouden, dit zijn wel goede waarden. Indien je wilt kun je hiervan natuurlijk afwijken.

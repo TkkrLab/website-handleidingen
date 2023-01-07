@@ -1,7 +1,7 @@
 ---
 title: "Optimum OPTimill MB 4"
 date: 2022-10-20
-weight: 5
+weight: 6
 ---
 
 ![Optimum OPTimill MB 4](/images/optimum_optimill_mb_4.jpg)

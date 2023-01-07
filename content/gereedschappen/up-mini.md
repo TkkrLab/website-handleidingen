@@ -1,7 +1,7 @@
 ---
 title: "Up mini"
 date: 2019-12-24
-weight: 6
+weight: 4
 ---
 
 De UP! mini is een kleine printer gemaakt door Tiertime. De UP! specialiseert zich in ABS met supports, en kan eigenlijk geen andere materialen aan. De UP! heeft een gefilterde ventilatie om de ABS lucht binnen te houden.

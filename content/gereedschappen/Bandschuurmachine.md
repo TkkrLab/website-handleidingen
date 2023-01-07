@@ -1,7 +1,7 @@
 ---
-title: "Band schuurmachine "
+title: "Band schuurmachine"
 date: 2022-03-26
-weight: 50
+weight: 40
 ---
 
 ![Beltgrinder](/gereedschappen/images/beltgrinder/beltgrinder.jpg)

@@ -8,17 +8,16 @@ Dit gereedschap is beschikbaar voor alle TkkrLab leden, te gebruiken in de space
 
 Ga met het gereedschap om zoals het bedoeld is, mocht je niet weten hoe iets werkt hebben we voor deze gereedschappen een handleiding beschikbaar. Als er een stuk gereedschap is waar nog geen handleiding voor is maar deze er wel moet komen, meld dit dan bij het bestuur, of nog beter, schrijf hem zelf.
 
-## Space (Boven)
+## Space
  * 3d Printers
    * 2 x [Prusa Mini](prusa-mini)
    * [Up Mini](up-mini)
  * [Silhouette Cameo 3](silhouette) Folie snijder
- * Reflow T962A oven voor SMD componenten. 
  * Naaimachine : Singer Serenade 10
- * Lijmpistool
+ * Lijmpistool 
  * Klein handgereedschap 
 
-### Electronica werkbank 
+### Electronica werkbank
  * Oscilloscoop :
    * Rigol MSO5072 (4 kanaals oscilloscoop 70MHz 8GS/s 500.000 wfms/s) 
    * Rigol DS1054Z (4 kanaals 50Mhz)
@@ -30,25 +29,28 @@ Ga met het gereedschap om zoals het bedoeld is, mocht je niet weten hoe iets wer
  * MTester voor testen van elektronische componenten
  * [Seleae Logic Analyzer (8 kanaals & 16 kanaals)](http://support.saleae.com/hc/en-us/sections/200114124-Get-Started-Using-the-Saleae-Logic-Analyzer)
  * JBC Soldeerbouten
- * iFixit Pro Tech Toolkit met vrijwel alle exotische schroeven zoals Tri-Wing, Torx BO, Spanner, Plat, Pentalobe.
+ * [Reflow T962a](reflow_oven)
+ * [iFixit Pro Tech Toolkit](https://www.ifixit.com/products/mako-driver-kit-64-precision-bits) met vrijwel alle exotische schroeven zoals Tri-Wing, Torx BO, Spanner, Plat, Pentalobe.
  * IKA HCT basic hotplate (voor SMD solderen)
  * Solder paste dispenser for SMD components.
  * Heatgun
  * Electronica componenten zoals de nodige grijpvoorraad, arduino's etc. 
 
 ## Werkplaats
-De apparatuur in onze werkplaats is vooral bedoeld voor bewerken van hout.
+De apparatuur in onze werkplaats.
  * [Lasercutter (30x40cm 40W)](lasercutter-cw3040)
+ * [Lasercutter FabCreator](fabcore_lasercutter)
  * [Optimum OPTimill MB 4 frees ](optimum-optimill-mb-4-frees)
  * [HBM 210 Draaibank](hbm-210-draaibank)
+ * [Stepcraft D840](stepcraft_d840)
  * [Kleine CNC](/gereedschappen/cnc_zen/)
- * Zaagtafel
- * Lintzaag
- * Kolomboor
+ * [Zaagtafel](zaagtafel)
+ * [Lintzaag](lintzaag)
+ * [Kolomboor](kolomboormachine)
  * Bovenfrees
  * Decoupeerzaag
- * Bandschuurmachines
+ * [Bandschuurmachine](bandschuurmachine)
  * Cirkelzaag
- * Afkortzaag
+ * [Afkortzaag](afkortzaag)
  * Diverse schuurmachines
  * Diverse handgereedschap

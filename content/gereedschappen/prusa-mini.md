@@ -1,7 +1,7 @@
 ---
 title: "Prusa Mini+"
 date: 2021-06-30
-weight: 5
+weight: 3
 ---
 
 ![Prusa Mini+](/images/prusa_mini_tkkrlab.jpg)

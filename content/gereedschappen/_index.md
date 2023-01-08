@@ -52,5 +52,6 @@ De apparatuur in onze werkplaats.
  * [Bandschuurmachine](bandschuurmachine)
  * Cirkelzaag
  * [Afkortzaag](afkortzaag)
+ * [MIG](jasic_mig200) en [TIG](jasic_tig200) lasapparaten
  * Diverse schuurmachines
  * Diverse handgereedschap

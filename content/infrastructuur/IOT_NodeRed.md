@@ -27,3 +27,11 @@ For the zigbee configuration check out [Zigbee server](http://server:8124/)
 We use a lot of MQTT and Zigbee2MQTT to control our space. 
 
 You can install ("mosquitto")[https://mosquitto.org] software to give commands on cli and subscribe to channels (to test).
+
+
+
+# More general information on
+
+* [Nodered getting started](https://nodered.org/docs/getting-started/)
+* MQTT
+* Zigbee

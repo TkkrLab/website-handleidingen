@@ -99,6 +99,8 @@ Other useful tests for discriminating plastics are the Beilstein copper wire tes
 
 ### Externe links
 
+
+* Handleiding [ENG](/files/FabCore_EN_Manual_V4.pdf) / [NL](/files/FabCore_NL_Handleiding_V4.pdf)
 * [Handleiding Fabcore](https://indd.adobe.com/view/f4e5dd6b-9db8-480d-ac57-8eb9e297c1f5)
 * [Hackaday lasercutter tips](https://hackaday.com/2016/05/31/how-to-fail-at-laser-cutting/)
 * [Herkennen van (plastic) materiaal](https://hackaday.com/2015/03/14/how-to-identify-plastics-before-laser-cutting-them/)

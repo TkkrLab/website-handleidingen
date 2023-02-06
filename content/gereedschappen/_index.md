@@ -38,7 +38,6 @@ Ga met het gereedschap om zoals het bedoeld is, mocht je niet weten hoe iets wer
 
 ## Werkplaats
 De apparatuur in onze werkplaats.
- * [Lasercutter (30x40cm 40W)](lasercutter-cw3040)
  * [Lasercutter FabCreator](fabcore_lasercutter)
  * [Optimum OPTimill MB 4 frees ](optimum-optimill-mb-4-frees)
  * [HBM 210 Draaibank](hbm-210-draaibank)
@@ -55,3 +54,7 @@ De apparatuur in onze werkplaats.
  * [MIG](jasic_mig200) en [TIG](jasic_tig200) lasapparaten
  * Diverse schuurmachines
  * Diverse handgereedschap
+
+
+## Archief oude apparatuur
+ * [Lasercutter (30x40cm 40W)](lasercutter-cw3040)

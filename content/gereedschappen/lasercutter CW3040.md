@@ -1,8 +1,11 @@
 ---
-title: "Lasercutter CW3040"
+title: "Lasercutter CW3040 *OUD*"
 date: 2020-06-10
-weight: 2
+weight: 999
 ---
+
+## Laser is vervangen door [FabCreator](/gereedschappen/fabcore_lasercutter/)
+
 
 ![Lasercutter CW3040 TkkrLab](/images/TkkrLab_Laser_Cutter_CW3040.jpg)
 De lasercutter van TkkrLab.

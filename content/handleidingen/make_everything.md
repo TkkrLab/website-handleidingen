@@ -1,7 +1,7 @@
 ---
 title: "How to make (almost) everything"
 date: 2021-01-01
-weight: 20
+weight: 15
 ---
 
 Geïnspireerd op de fablab cursussen ‘how to make (almost) everything’ geven we hieronder praktische tips hoe je onze apparatuur kunt gebruiken om (bijna) alles te maken. 

@@ -1,7 +1,7 @@
 ---
 title: "Dobbelsteen"
 date: 2021-01-01
-weight: 20
+weight: 50
 ---
 
 ## Dobbelsteen solderen ##

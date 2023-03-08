@@ -47,7 +47,7 @@ Price for PLA filament (various colours) per gram is € 0.04 . In your slicer y
 
 # Laser cutter
 
-![Lasercutter CW3040 TkkrLab](/images/TkkrLab_Laser_Cutter_CW3040.jpg)
+![Fabcreator Fabcore](/images/fabcreator_fabcore.png)
 
 With a laser cutter you can cut very precisely in flat materials. The most commonly used material in lasercutters is plywood between 3-6mm thick or acrylic (also known as PPMA, plexiglass)
 
@@ -59,11 +59,12 @@ You don't have to design everything yourself, for example boxes you have very go
 
 #### Costs for participants
 All our plates have the maximum size of the laser (30x40cm). First check whether we have the material you want to use in stock.
-* plywood 3/4 mm - € 2.00
-* transparent arcylate ( 2 mm - € 3.00 / 3mm - € 4.00 / 4mm - € 5.00 / black 2mm - € 3.00)
+* plywood 3/4 mm 
+* transparent arcylate
 
 ## Lasercutter at TkkrLab
-* [CW3040 40Watt](/tools/lasercutter-cw3040/) 30x40cm 40Watt
+ * [Lasercutter FabCreator](fabcore_lasercutter)
+
 
 ## Internet sources lasercutter
 * [TkkrLab online workshop](https://www.youtube.com/watch?v=JtGMao8C_nw)
@@ -125,5 +126,6 @@ Suitable for POM plastic, aluminum, wood and other (technical) materials that ar
 Here too you have to make a digital design and send it to the cnc via gcode. Fusion 360 is suitable for this (the CAM module) to make g-code, with BCNC you can send it to the CNC.
 
 ## CNCs at TkkrLab
-* [Small CNC](/tools/cnc_zen/) 7"x7"x2" inch
-* [Large CNC](/tools/cnc/) 50x50x10cm 5400 rpm spindle
+ * [Optimum OPTimill MB 4 frees ](optimum-optimill-mb-4-frees)
+ * [HBM 210 Draaibank](hbm-210-draaibank)
+ * [Stepcraft D840](stepcraft_d840)

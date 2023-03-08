@@ -8,8 +8,9 @@ weight: 2
 
 
 ## Specificaties
- * Bed Afmetingen: 600x300mm
- * Vermogen buis: 40Watt
+
+* Bed Afmetingen: 600x300mm
+* Vermogen buis: 40Watt
 
 ## Software
 
@@ -37,9 +38,6 @@ Met de 'Preview' (ALT-P) knop kun je kijken wat de laser gaat doen. Hiermee kun 
 ### Camera in Lightburn
 
 In de laser zit ook een camera die je kan helpen bij het plaatsten van je werkstuk. Lightburn laat dan op de achtergrond zien wat de camera registreerd. Dit kun je doen door bovenin de fototoestel aan te kliken of via camera (ALT-C) aansturing de optie 'update overlay'.
-
-Op dit moment is de camera wel geactiveerd maar niet voor de goede lens. Er zit een verschil in de fysieke plek en wat camera aangeeft, vooral bij de randen van het bed. Dit zal soon<sup>TM</sup> opnieuw ingesteld worden.
-
 
 # Laser snijden
 

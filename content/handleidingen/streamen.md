@@ -4,6 +4,19 @@ date: 2023-02-20
 weight: 20
 ---
 
+## Apparatuur
+
+* Camera Sony ZV-1 met statief
+* [Behringer XENYX X1222USB mengpaneel](​​https://www.bax-shop.nl/analoog-mengpaneel/behringer-xenyx-x1222usb-pa-en-studio-mixer) met USB aansluiting
+* Wireless headset microfoon
+* Wireless mic 2x
+* 2 HDMI capture USB stick
+* 1 HDMI capture USB stick met pass true / HDMI out
+* Display port 2.0 to HDMI converter
+* Remote clicker
+* Window system met OBS voor streamen
+
+
 ## Voorbereiden Streamen ##
 
 ### Aansluiten apparatuur ###
@@ -32,7 +45,7 @@ Mocht dit niet het geval zijn check dan de bronnen van de betreffende apparaat.
 
 ### Streamcheck ###
 
-Laatste controle is het controleren streamen, voor een test controleer dat setting privacy van de stream op 'unlisted' of 'private' staat. Spreek wat en check de geluidslevels op de stream.
+Laatste controle is het controleren streamen, voor een test controleer dat setting privacy van de stream op 'unlisted' of 'private' staat. Vraag de presentator om iets te zeggen en check de geluidslevels op de stream.
 
 # Live Streamen #
 
@@ -42,4 +55,10 @@ Selecteer ook de optie voor het opnemen, mocht tijdens het streamen wat fout gaa
 
 Start met de 5 min countdown.
 
+Tijdens stream wissel tussen presentatie en persoon. De nummerieke hotkeys zijn gebruikt om eenvoudig te kunnen wisselen tussen presentatie/persoon, test deze ook voor de live stream.
+
 Op het einde laat de 'subscribe' scnene zien.
+
+## Controle achteraf
+
+Meestal is livestream goed genoeg om te laten staan. Mocht dit niet het geval zijn dan moet de video/audio gemonteerd worden en opnieuw geupload worden.

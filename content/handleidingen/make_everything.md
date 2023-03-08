@@ -38,7 +38,6 @@ Prijs voor PLA filament (diverse kleuren) per gram is € 0,04 . In je slicer ku
 
 ## 3d printers bij TkkrLab
 * [Prusa Mini+](/gereedschappen/prusa-mini/)
-* [Up Mini](/gereedschappen/up-mini/)
 
 ## Internet bronnen 3d printen
 * [TkkrLab online workshop](https://www.youtube.com/watch?v=c420UUFpsl0) Uitleg basis 3d printer en tinkercad (online 3D ontwerp programma)
@@ -47,7 +46,7 @@ Prijs voor PLA filament (diverse kleuren) per gram is € 0,04 . In je slicer ku
 
 # Lasercutter
 
-![Lasercutter CW3040 TkkrLab](/images/TkkrLab_Laser_Cutter_CW3040.jpg)
+![Fabcreator Fabcore](/images/fabcreator_fabcore.png)
 
 Met een lasercutter kun je heel precies snijden in vlakke materialen. Het meest gebruikte materiaal in lasercutter is triplex tussen de 3-6mm dik of acrylaat (ook bekend onder de naam PPMA, plexiglas)
 
@@ -58,12 +57,13 @@ Om zelf een ontwerp te maken kan dus met een programma die een van de bovenstaan
 Je hoeft niet alles zelf te ontwerpen, voor bijvoorbeeld doosjes heb je hele goede online box generators. Je geeft hierbij de maten aan en met een paar muisklikken heb je een basis ontwerp die je nog naar je eigen wens kunt aanpassen.
 
 #### Kosten voor deelnemers
-Alle onze platen hebben de maximale afmeting van de laser (30x40cm). Check eerst of we het materiaal dat je wil gebruiken op voorraad hebben.
-* triplex 3/4 mm  - € 2,00
-* transparant arcylaat ( 2 mm - € 3,00 / 3mm - € 4,00 / 4mm - € 5,00 / zwart 2mm - € 3,00)  
+Alle onze platen hebben de maximale afmeting van de laser (30x60cm). Check eerst of we het materiaal dat je wil gebruiken op voorraad hebben.
+* triplex 3/4 mm 
+* transparant arcylaat
 
 ## Lasercutter bij TkkrLab 
-* [CW3040 40Watt](/gereedschappen/lasercutter-cw3040/) 30x40cm 40Watt
+ * [Lasercutter FabCreator](fabcore_lasercutter)
+
 
 ## Internet bronnen lasercutter
 * [TkkrLab online workshop](https://www.youtube.com/watch?v=JtGMao8C_nw)
@@ -118,12 +118,11 @@ Hieronder staan enkele zelfstudie bronnen, indien je vastloopt met een van deze 
 
 # CNC freesmachine
 
-![CNC](/images/Big_CNC_machine_Picture.jpg)
-
 Met de cnc kun je uit een blok materiaal materiaal verwijderen totdat je de gewenste form overhoud. Dit kan zowel in 2D als 3D vlak, afhankelijk van je wensen en beschikbare materialen.
 Geschikt voor POM plastic, aluminium, hout, en andere (technische) materialen die niet te hard zijn.
 Ook hier moet je een digitaal ontwerp maken en via gcode sturen naar de cnc. Hiervoor is Fusion 360 geschikt (de CAM module) om g-code te maken, met BCNC kun je het naar de CNC sturen.
 
 ## CNC's bij TkkrLab
-* [Kleine CNC](/gereedschappen/cnc_zen/) 7"x7"x2" inch
-* [Grote CNC](/gereedschappen/cnc/) 50x50x10cm 5400 rpm spindle
+ * [Optimum OPTimill MB 4 frees ](optimum-optimill-mb-4-frees)
+ * [HBM 210 Draaibank](hbm-210-draaibank)
+ * [Stepcraft D840](stepcraft_d840)

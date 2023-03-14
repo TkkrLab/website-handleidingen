@@ -14,6 +14,7 @@ Ga met het gereedschap om zoals het bedoeld is, mocht je niet weten hoe iets wer
    * [Up Mini](up-mini)
  * [Silhouette Cameo 3](silhouette) Folie snijder
  * Naaimachine : Singer Serenade 10
+ * [Brother PR600 II borduurmachine](/gereedschappen/brother_pr600_II/)
  * Lijmpistool 
  * Klein handgereedschap 
 

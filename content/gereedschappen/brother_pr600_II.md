@@ -27,13 +27,10 @@ weight: 6
 
 ## Software
 
-Via usb een Tajima-gegevensbestanden (*.dst) 
+Je kunt met de inkscape plugin [Ink stitch](https://inkstitch.org) een *.pes bestand aanmaken waarmee je een eigen ontwerp kunt maken. 
 
-
-# Onderhoud
-
-
+Via usb (geformateerd FAT32 max 4Gb) kun je deze inlezen in de borduur machine.
 
 ### Externe links
 
-* 
+* [Ink stitch](https://inkstitch.org) en [Inkscape](http://inkscape.org)

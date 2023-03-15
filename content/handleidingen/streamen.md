@@ -23,22 +23,28 @@ weight: 20
 
 We gebruiken een mini pc voor het streamen, hierop staat windows met OBS (met tkkrlab thema's)
 
-* USB achterkant 
+
+![Streaming aansluiten voorkant](/images/streaming_pc_voorkant.jpg)
+
+* Voorkant
+  * mix paneel (via USB-A aansluiting)
+
+
+![Streaming aansluiten achterkant](/images/streaming_pc.jpg)
+
+* Achterkant
   * bovenste, HDMI capture naar USB voor camera
   * onderste, HDMI capture naar USB
     * IN - HDMI van presentatie
     * OUT doorlussen naar tv
-
-* USB voorkant
-  * mix paneel (via USB-A aansluiting)
-
-* USB-C voor monitor, toetsenbord en muis
+  * USB-C voor monitor, toetsenbord en muis
 
 ### Check appartuur ###
 
 Zet alle apparatuur aan en start OBS op. Als alles goed is heb je de beelden en geluid van de verwachte bronnen.
 
 Mocht dit niet het geval zijn check dan de bronnen van de betreffende apparaat.
+
 * camera - 'USB Video'
 * presentatie pc - 'FHD capture'
 * mengpaneel - 'Microphone - USB Audio Codec'
@@ -47,7 +53,7 @@ Mocht dit niet het geval zijn check dan de bronnen van de betreffende apparaat.
 
 Laatste controle is het controleren streamen, voor een test controleer dat setting privacy van de stream op 'unlisted' of 'private' staat. Vraag de presentator om iets te zeggen en check de geluidslevels op de stream.
 
-# Live Streamen #
+# Live Streamen
 
 Zet / controleer privacy setting stream. Als deze op public staat en je gaat streamen krijg alle 'subscribed' personen meteen een melding.
 

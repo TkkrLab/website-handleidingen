@@ -21,7 +21,7 @@ weight: 20
 
 ### Aansluiten apparatuur ###
 
-We gebruiken een mini pc voor het streamen, hierop staat windows met OBS (met tkkrlab thema's)
+We gebruiken een mini pc (ASUS PN51-E1) voor het streamen, hierop staat windows met OBS (met tkkrlab thema's)
 
 
 ![Streaming aansluiten voorkant](/images/streaming_pc_voorkant.jpg)
@@ -62,6 +62,18 @@ Selecteer ook de optie voor het opnemen, mocht tijdens het streamen wat fout gaa
 Start met de 5 min countdown.
 
 Tijdens stream wissel tussen presentatie en persoon. De nummerieke hotkeys zijn gebruikt om eenvoudig te kunnen wisselen tussen presentatie/persoon, test deze ook voor de live stream.
+
+### Hotkeys binnen OBS
+
+- 1 spreker
+- 2 presentatie
+- 3 presentatie met spreker
+- 4 spreker met presentatie
+
+- 8 sluiting (subscribe)
+- 9 pauze
+- 0 starting soon (countdown)
+
 
 Op het einde laat de 'subscribe' scnene zien.
 

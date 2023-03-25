@@ -85,6 +85,36 @@ Voor het ontwerpen zelf kun je gebruik maken van inkscape, zie bij de uitleg van
 ## Foliesnijder bij TkkrLab 
 * [Silhouette Cameo 3](/gereedschappen/silhouette/)
 
+## Internet bronnen
+
+
+# Borduur machine
+
+![Brother borduurmachine](/images/brother_pr600_II.jpg)
+
+Hiermee kun je eigen sticksels maken binnen maat van 20 x 30 cm. Voor de borduurmachine moet je een *.pes bestand aanmaken met de inkstitch plugin voor inkscape.
+
+## Borduur machine bij TkkrLab
+
+* [Brother PR600 II borduurmachine](/gereedschappen/brother_pr600_II/)
+
+
+## Internet bronnen
+
+* [Inkscape](https://inkscape.org/) met [Inkstitch plugin](https://inkstitch.org)
+
+
+# CNC freesmachine
+
+Met de cnc kun je uit een blok materiaal materiaal verwijderen totdat je de gewenste form overhoud. Dit kan zowel in 2D als 3D vlak, afhankelijk van je wensen en beschikbare materialen.
+Geschikt voor POM plastic, aluminium, hout, en andere (technische) materialen die niet te hard zijn.
+Ook hier moet je een digitaal ontwerp maken en via gcode sturen naar de cnc. Hiervoor is Fusion 360 geschikt (de CAM module) om g-code te maken, met BCNC kun je het naar de CNC sturen.
+
+## CNC's bij TkkrLab
+ * [Stepcraft D840](stepcraft_d840)
+ * [HBM 210 Draaibank](hbm-210-draaibank)
+ * [Optimum OPTimill MB 4 frees ](optimum-optimill-mb-4-frees)
+
 
 # Arduino / Electronica 
 
@@ -116,13 +146,3 @@ Hieronder staan enkele zelfstudie bronnen, indien je vastloopt met een van deze 
 * [freecodecamp](https://www.freecodecamp.org/) Gratis tutorials.
 * [Udemy](https://www.udemy.com/) Commerciele aanbieder van veel trainingen.
 
-# CNC freesmachine
-
-Met de cnc kun je uit een blok materiaal materiaal verwijderen totdat je de gewenste form overhoud. Dit kan zowel in 2D als 3D vlak, afhankelijk van je wensen en beschikbare materialen.
-Geschikt voor POM plastic, aluminium, hout, en andere (technische) materialen die niet te hard zijn.
-Ook hier moet je een digitaal ontwerp maken en via gcode sturen naar de cnc. Hiervoor is Fusion 360 geschikt (de CAM module) om g-code te maken, met BCNC kun je het naar de CNC sturen.
-
-## CNC's bij TkkrLab
- * [Optimum OPTimill MB 4 frees ](optimum-optimill-mb-4-frees)
- * [HBM 210 Draaibank](hbm-210-draaibank)
- * [Stepcraft D840](stepcraft_d840)

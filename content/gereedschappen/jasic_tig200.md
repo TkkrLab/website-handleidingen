@@ -1,10 +1,10 @@
 ---
-title: "Jarvis TIG200"
+title: "Jasic TIG200"
 date: 2022-03-26
 weight: 50
 ---
 
-![Jarvis MIG200](/images/jarvis_mig200.webp)
+![Jarvis MIG200](/images/jasic_tig200.webp)
 
 
 [Handleidingen](/files/jasic_tig200.zip)

@@ -23,7 +23,7 @@ weight: 6
 
 * [Handleiding NL](/files/pr600II_nl.pdf)
 * [Quick Reference Guide](/files/pr600II_quickref.pdf)
-
+* [Youtube video](https://www.youtube.com/watch?v=DgVaLi25KAs)
 
 ## Software
 

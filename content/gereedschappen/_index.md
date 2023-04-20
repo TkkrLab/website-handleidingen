@@ -12,7 +12,7 @@ Ga met het gereedschap om zoals het bedoeld is, mocht je niet weten hoe iets wer
  * 3d Printers
    * 2 x [Prusa Mini](prusa-mini)
    * [Up Mini](up-mini)
- * [Brother PR600 II borduurmachine](/gereedschappen/brother_pr600_II/)
+ * [Brother PR600 II borduurmachine](brother_pr600_II)
  * [Silhouette Cameo 3](silhouette) Folie snijder
  * Naaimachine : Singer Serenade 10
  * Lijmpistool 
@@ -57,5 +57,6 @@ De apparatuur in onze werkplaats.
  * Diverse handgereedschap
 
 
-## Archief oude apparatuur
+## Archief oude apparatuur (niet meer bij TkkrLab)
  * [Lasercutter (30x40cm 40W)](lasercutter-cw3040)
+ * [Up Mini 3d Printer](up-mini)

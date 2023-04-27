@@ -3,3 +3,4 @@ content/projects/git-*
 content/agenda.md
 .hugo_build.lock
 .DS_Store
+*.code-workspace

@@ -30,6 +30,9 @@ For our internal dashboard you can go to [TkkrLab Node-RED Dashboard](http://ser
 
 
 ## Zigbee
+
+![Zigbee knoppen](/images/zigbee_knoppen.jpg)
+
 We have around 22 Zigbee sensors, ranging from lamps, doorsensors, relay controllers,  buttons, tempature sensor and more. These are all connected to Zigbee.
 
 We use a linux compatable Zigbee USB stick (Texas Instruments, Inc. CC2531 ZigBee) on our sever. If you want to create your own system use one on the recommended list from [Zigbee2MQTT](https://www.zigbee2mqtt.io/guide/adapters/#recommended). This USB sticks have to be updated with alternative firmware  'coordinator firmware'.

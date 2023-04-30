@@ -13,6 +13,7 @@ Ga met het gereedschap om zoals het bedoeld is, mocht je niet weten hoe iets wer
    * 2 x [Prusa Mini](prusa-mini)
    * [Up Mini](up-mini)
  * [Brother PR600 II borduurmachine](brother_pr600_II)
+ * [Secabo TC 2 transferpres](secabo_tc2)
  * [Silhouette Cameo 3](silhouette) Folie snijder
  * Naaimachine : Singer Serenade 10
  * Lijmpistool 

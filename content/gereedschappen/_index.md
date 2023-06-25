@@ -12,9 +12,6 @@ Ga met het gereedschap om zoals het bedoeld is, mocht je niet weten hoe iets wer
  * 3d Printers
    * 2 x [Prusa Mini](prusa-mini)
    * [Up Mini](up-mini)
- * [Brother PR600 II borduurmachine](brother_pr600_II)
- * [Secabo TC 2 transferpres](secabo_tc2)
- * [Silhouette Cameo 3](silhouette) Folie snijder
  * Naaimachine : Singer Serenade 10
  * Lijmpistool 
  * Klein handgereedschap 
@@ -57,7 +54,13 @@ De apparatuur in onze werkplaats.
  * Diverse schuurmachines
  * Diverse handgereedschap
 
+## Presentatie ruimte
+ * [Brother PR600 II borduurmachine](brother_pr600_II)
+ * [Secabo TC 2 transferpres](secabo_tc2)
+ * [Silhouette Cameo 3](silhouette) Folie snijder
+ * [Vaquform DT2](vaquform_dt2) Vacuform machine 
 
-## Archief oude apparatuur (niet meer bij TkkrLab)
+
+#### Archief oude apparatuur (niet meer bij TkkrLab)
  * [Lasercutter (30x40cm 40W)](lasercutter-cw3040)
  * [Up Mini 3d Printer](up-mini)

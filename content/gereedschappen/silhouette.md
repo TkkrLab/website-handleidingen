@@ -64,6 +64,8 @@ Importeer je ontwerp in Design studio, selecteer materiaal 'Heat tranfer, Fabric
 
 Verwijder de negatieve film (dus de stukken die niet nodig hebt) en laat alleen het gewenste afbeelding op de materiaal achter. Maklijkste gaat dit met een tandarts haakje, pincet en scherp mesje.
 
+Met onze [transfer](/gereedschappen/secabo_tc2/) pers kun je ontwerp op textiel persen
+
 Zet je strijkijzer op de Wolstand. Zorg ervoor dat de stoominstelling UIT staat voor stoomstrijkijzers. Gebruik het strijkijzer om het gebied van het materiaal waar u uw gesneden afbeelding aanbrengt, 10 seconden voor te verwarmen.
 
 Plaats de folie, met de lijm/matte kant naar onderen, op het voorverwarmde materiaal. Oefen middelmatige druk uit met het strijkijzer gedurende 25 tot 30 seconden.
@@ -72,4 +74,6 @@ Draai het materiaal om en oefen nog 25 tot 30 seconden middelmatige druk uit met
 
 Laat het helemaal afkoelen en verwijder het bescherm plastic voorzichtig. Dit word "cool peel" genoemd.
 
-Folie kun je natuurlijk in verschillende webshops kopen, ik (Dave) heb goede ervaring met [Decorabel webshop](https://www.decorabel.nl/webshop/flex-flock/siser/p-s-film-basic/siser-ps-film-wit-a0001/).
+Folie kun je natuurlijk in verschillende webshops kopen. 
+* [Decorabel webshop](https://decorabel.nl/product-categorie/flex-en-flock/siser-flex/).
+* [Hobbyplotter](https://www.hobbyplotter.nl/) (in Enschede, kunt in hun magazijn ophalen.)

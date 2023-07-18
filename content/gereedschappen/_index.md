@@ -56,10 +56,10 @@ De apparatuur in onze werkplaats.
 
 ## Presentatie ruimte
  * [Brother PR600 II borduurmachine](brother_pr600_II)
+ * [TOYOTA Overlock](toyota_differential_sl3455ds_overlocker)
  * [Secabo TC 2 transferpres](secabo_tc2)
  * [Silhouette Cameo 3](silhouette) Folie snijder
  * [Vaquform DT2](vaquform_dt2) Vacuform machine 
-
 
 #### Archief oude apparatuur (niet meer bij TkkrLab)
  * [Lasercutter (30x40cm 40W)](lasercutter-cw3040)

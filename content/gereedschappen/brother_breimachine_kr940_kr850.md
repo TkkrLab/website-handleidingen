@@ -4,9 +4,9 @@ date: 2023-03-13
 weight: 6
 ---
 
-We zijn deze machine nog aan het uitzoek, dus deze pagina is WIP
+We zijn deze machine nog aan het uitzoeken, dus deze pagina is WIP
 
-We hebben breimachine KR-940 met en KR-850
+We hebben breimachine KR-940 met een KR-850
 
 ## Specificaties
 * 4.5 Gauge (mm)	

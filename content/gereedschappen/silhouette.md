@@ -76,4 +76,5 @@ Laat het helemaal afkoelen en verwijder het bescherm plastic voorzichtig. Dit wo
 
 Folie kun je natuurlijk in verschillende webshops kopen. 
 * [Decorabel webshop](https://decorabel.nl/product-categorie/flex-en-flock/siser-flex/).
-* [Hobbyplotter](https://www.hobbyplotter.nl/) (in Enschede, kunt in hun magazijn ophalen.)
+* [Hobbyplotter.nl](https://www.hobbyplotter.nl/) (in Enschede, kunt in hun magazijn ophalen.)
+* [Plotterfolie.nl](https://plotterfolie.nl/)

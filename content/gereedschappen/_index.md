@@ -19,6 +19,7 @@ Ga met het gereedschap om zoals het bedoeld is, mocht je niet weten hoe iets wer
  * Oscilloscoop :
    * Rigol MSO5072 (4 kanaals oscilloscoop 70MHz 8GS/s 500.000 wfms/s) 
    * Rigol DS1054Z (4 kanaals 50Mhz)
+ * [HAMEG MHS3000 3G spectrum analyzer](hameg_hms3000)
  * Labvoedingen : 
    * Rigol DP832
    * Korad KA3005P 0-30V 0-5A programmeerbaar
@@ -32,6 +33,7 @@ Ga met het gereedschap om zoals het bedoeld is, mocht je niet weten hoe iets wer
  * IKA HCT basic hotplate (voor SMD solderen)
  * Solder paste dispenser for SMD components.
  * Heatgun
+ * NanoVNA
  * Electronica componenten zoals de nodige grijpvoorraad, arduino's etc. 
 
 ## Werkplaats

@@ -22,3 +22,21 @@ Manual [here](/files/hms3000.manual.pdf)
  * 8 Markers with delta marker, miscellaneous peak functions
  * Crisp 16.5cm TFT VGA display, DVI output
  * 3x USB for mass-storage, printer and remote control optional IEEE-488  or Ethernet/USB interface
+
+## DON'TS
+Do not do these things or you will be escorted out of the building in tar and feathers!
+
+ * connecting random chinesium stuff.
+   if you have to, make sure the output of your stuff is below 25 Volts or 20dBm, wichever is lower!
+   Also make sure your device is set up for a 50 Ω impedance.
+   
+ * connecting random connectors.
+   faulty connectors can wear out or destroy the N connector on the spectrum analyzer.
+   use the connector provided by the space or ask someone from the space if your connector.
+
+ * over torqueing connectors.
+   RF connectors can be damaged by being overtorqued. If you pull out a wrench prepare to have it used on yourself!
+
+ * try to hack the spectrum analyzer.
+   It has already been hacked and it doesn't need to be hacked to pieces.
+   If you have a proposal for utilizing the smorgasbord of IO's, run it by the space board.

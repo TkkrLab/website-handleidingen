@@ -80,3 +80,8 @@ Op het einde laat de 'subscribe' scnene zien.
 ## Controle achteraf
 
 Meestal is livestream goed genoeg om te laten staan. Mocht dit niet het geval zijn dan moet de video/audio gemonteerd worden en opnieuw geupload worden.
+
+
+## Gebruik van Apple Pro M1
+
+![Display setting voor Apple MAC pro M1](/images/apple_mac_pro_m1.jpg)

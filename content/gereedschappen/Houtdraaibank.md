@@ -4,7 +4,7 @@ date: 2021-01-01
 weight: 50
 ---
 
-!gebruik de houtdraaibank niet als je neit weet wat je aan het doen bent!
+!gebruik de houtdraaibank niet als je niet weet wat je aan het doen bent!
 
 ## Product informatie
 HBM variabele houtdraaibank - 450 x 300
@@ -22,7 +22,7 @@ HBM variabele houtdraaibank - 450 x 300
 * Verpakkingsafmetingen (HxBxD) 	85 x 45 x 30 cm.
 * Gewicht 	45 Kg
 
-##Veiligheid
+## Veiligheid
 * Bril
 * Mondmasker
 * Gelaatbescherming (Face shield)
@@ -62,7 +62,7 @@ Hier is een refrence tabel
 | 300           | 500                | 750                |
 tabel van: woodturners south ackland woodturs guid inc.
 
-##De Tools
+## De Tools
 De beitels die aanwezig zijn 
 
 - **7/8" Rouging Gouge:** Deze beitel wordt gebruikt om snel materiaal te verwijderen en het houtwerkstuk aan het begin van het project een ronde vorm te geven. Het is bedoeld voor draaibankwerk en is niet geschikt voor het bewerken van schalen (bowls) vanwege de beperkte sterkte.
@@ -77,8 +77,8 @@ De beitels die aanwezig zijn
 
 - **1" Scew Chisel:** Deze beitel is krachtig maar ook gevaarlijk en vereist veel oefening. Het kan voor verschillende bewerkingen worden gebruikt, maar er bestaat een risico van vastlopen, dus het moet met de nodige voorzichtigheid worden behandeld.
 
-##Slijpen van Beitels
-
+## Slijpen van Beitels
+To-Do
 
 
 

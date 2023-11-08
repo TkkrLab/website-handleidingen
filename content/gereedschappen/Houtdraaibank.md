@@ -81,7 +81,7 @@ De beitels die aanwezig zijn:
 
 ## Slijpen van Beitels
 To-Do
-Het slijpen van de beitels moet ongeveer 1x per dag worden gedaan. Er zijn twee jigs aanweig om de verschilende beitels te slijpen. Dit doen we op de bandschuurmachine ![Bandschuurmachine.md] met gebruik van een 230 grid Aluminium Zirconia schuurband. Er hoeft niet veel matriaal verwijderd te worden van de beitel, gebruik een lage snelheid.  
+Het slijpen van de beitels moet ongeveer 1x per dag worden gedaan. Er zijn twee jigs aanweig om de verschilende beitels te slijpen. Dit doen we op de ![bandschuurmachine](Bandschuurmachine.md) met gebruik van een 230 grid Aluminium Zirconia schuurband. Er hoeft niet veel matriaal verwijderd te worden van de beitel, gebruik een lage snelheid.  
 
 
 

@@ -34,6 +34,8 @@ HBM variabele houtdraaibank - 450 x 300
 To-Do
 gebruik met voorkeur hardhout, Zachthout geeft een slechter finish en breken makelijker stukken van af. 
 
+Zorg er voor dat er geen metaal in het hout zit zoals oude afgebroken spijkers/schroeven. Dit kan extreem gevaarlijk zijn.
+
 ## inklemen
 To-Do
 Zorg dat het werkstuk goed zit ingeklemd
@@ -63,7 +65,7 @@ Hier is een refrence tabel
 tabel van: woodturners south ackland woodturs guid inc.
 
 ## De Tools
-De beitels die aanwezig zijn 
+De beitels die aanwezig zijn:
 
 - **7/8" Rouging Gouge:** Deze beitel wordt gebruikt om snel materiaal te verwijderen en het houtwerkstuk aan het begin van het project een ronde vorm te geven. Het is bedoeld voor draaibankwerk en is niet geschikt voor het bewerken van schalen (bowls) vanwege de beperkte sterkte.
 
@@ -79,7 +81,7 @@ De beitels die aanwezig zijn
 
 ## Slijpen van Beitels
 To-Do
-
+Het slijpen van de beitels moet ongeveer 1x per dag worden gedaan. Er zijn twee jigs aanweig om de verschilende beitels te slijpen. Dit doen we op de bandschuurmachine [Bandschuurmachine.md] met gebruik van een 230 grid Aluminium Zirconia schuurband. Er hoeft niet veel matriaal verwijderd te worden van de beitel, gebruik een lage snelheid.  
 
 
 

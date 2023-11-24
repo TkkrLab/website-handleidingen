@@ -64,6 +64,8 @@ Hier is een refrence tabel
 | 300           | 500                | 750                |
 tabel van: woodturners south ackland woodturs guid inc.
 
+**Boren:** 600rpm, hiervoor moet je de banden verzetten.
+
 ## De Tools
 De beitels die aanwezig zijn:
 

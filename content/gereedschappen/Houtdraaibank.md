@@ -3,6 +3,7 @@ title: "Houtdraaibank - HBM"
 date: 2021-01-01
 weight: 50
 ---
+![Houtdraaibank](/gereedschappen/images/houtdraaibank/houtdraaibank.jpg)
 
 !gebruik de houtdraaibank niet als je niet weet wat je aan het doen bent!
 

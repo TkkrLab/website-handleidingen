@@ -11,6 +11,7 @@ Ga met het gereedschap om zoals het bedoeld is, mocht je niet weten hoe iets wer
 ## Space
  * 3d Printers
    * 2 x [Prusa Mini](prusa-mini)
+ * [Thermische Camera UTi260B](thermal_imager_uti260b)
  * Naaimachine : Singer Serenade 10
  * Lijmpistool 
  * Klein handgereedschap 
@@ -23,6 +24,7 @@ Ga met het gereedschap om zoals het bedoeld is, mocht je niet weten hoe iets wer
  * Labvoedingen : 
    * Rigol DP832
    * Korad KA3005P 0-30V 0-5A programmeerbaar
+ * Siglent SDL 1020x 200W DC Electric load
  * Frequentie Generator : JUNCE JDS6600 - 50MHZ, 2 kanalen
  * LCD microscoop 
  * MTester voor testen van elektronische componenten
@@ -63,8 +65,3 @@ De apparatuur in onze werkplaats.
  * [Secabo TC 2 transferpres](secabo_tc2)
  * [Vaquform DT2](vaquform_dt2) Vacuform machine 
 
-
-
-##### Archief oude apparatuur (niet meer bij TkkrLab)
- * [Lasercutter (30x40cm 40W)](lasercutter-cw3040)
- * [Up Mini 3d Printer](up-mini)

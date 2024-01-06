@@ -21,6 +21,9 @@ weight: 20
 
 ### Aansluiten apparatuur ###
 
+Alles is nu in een transportkist gebouwd, dus je hoeft niet alles zelf aan te sluiten. Alle audio apparatuur is in de kist gemonteerd, de camera, utp en strooom moet je nog wel aansluiten. Hiervoor liggen de kabels in de kist.
+
+
 We gebruiken een mini pc (ASUS PN51-E1) voor het streamen, hierop staat windows met OBS (met tkkrlab thema's)
 
 
@@ -55,9 +58,11 @@ Laatste controle is het controleren streamen, voor een test controleer dat setti
 
 # Live Streamen
 
+Je kunt (kort) van te voren een stream aanmaken en later mee connecten om te streamen.
+
 Zet / controleer privacy setting stream. Als deze op public staat en je gaat streamen krijg alle 'subscribed' personen meteen een melding.
 
-Selecteer ook de optie voor het opnemen, mocht tijdens het streamen wat fout gaan kunnen we hiervan heruploaden of editen mocht dit noodzakelijk zijn.
+Bij het streamen zou ook meteen OBS automatisch op de lokale HD opnemen. Check of dit inderdaad het geval is. 
 
 Start met de 5 min countdown.
 
@@ -79,8 +84,7 @@ Op het einde laat de 'subscribe' scnene zien.
 
 ## Controle achteraf
 
-Meestal is livestream goed genoeg om te laten staan. Mocht dit niet het geval zijn dan moet de video/audio gemonteerd worden en opnieuw geupload worden.
-
+Meestal is livestream goed genoeg om te laten staan. Mocht dit niet het geval zijn dan moet de video/audio gemonteerd worden en opnieuw geupload worden. Je kunt hiervoor de opname gebruiken (=sneller want meteen beschikbaar) of eerst de stream van youtube downloaden en monteren. 
 
 ## Gebruik van Apple Pro M1
 

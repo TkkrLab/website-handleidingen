@@ -8,3 +8,4 @@ weight: 2
 * [Arduino workshop](https://arduino.tkkrlab.space/)
 * [How to make (almost) everything](/handleidingen/make_everything/)
 * [Werkplaats](/handleidingen/werkplaats/)
+* Solderen [EN](fullsoldercomic_en.pdf) / [NL](fullsoldercomic_en.pdf)

@@ -1,21 +1,20 @@
 ---
-title: "Prusa Mini+"
+title: "Prusa XL 5T"
 date: 2021-06-30
 weight: 3
 ---
 
-![Prusa Mini+](/images/prusa_mini_tkkrlab.jpg)
-
 ## Specificaties
 
-* Afmetingen: 180x180x180mm
+* Afmetingen: 360x360x360mm
 * Filament maat: 1.75mm
 * Materialen: PLA, PETG, ASA, ABS, Flex
 * Nozzle grootte: 0.4mm
 * Verwarmd printbed: Ja
 * Filement sensor : Ja
+* 5 Toolheads
 
- Meer informatie over Prusa Mini+ op site van [prusa](https://www.prusa3d.com/original-prusa-mini/)
+ Meer informatie over Prusa XL op site van [prusa](https://www.prusa3d.com/en/product/original-prusa-xl/)
 
 ## Slicen
 
@@ -23,7 +22,7 @@ Het mooie van een Prusa printer is dat je de Prusa Slicer kunt gebruiken, hierin
 
 ### Configureren voor TkkrLab
 
-Als je PrusaSlicer voor de eerste keer opstart moet je eerst een printer aanmaken. Voor TkkrLab is dat dus de 'Prusa MINI+' printer. We hebben 3 printers die je via het lokale netwerk een opdracht kunt sturen. Gebruik hiervoor de [TkkrLab bundle](/files/TkkrLab_PrusaSlicer_config_bundle.ini.zip) en importeer deze via 'File -> Import -> Import Config Bundle' in de PrusaSlicer. Hiermee worden beide fysieke printers toegevoegd en kun je deze selecteren onder 'Printer' dropdown rechts bovenaan in de interface.
+Als je PrusaSlicer voor de eerste keer opstart moet je eerst een printer aanmaken. Voor TkkrLab is dat dus de 'Prusa XL 5T' printer. We hebben 3 printers die je via het lokale netwerk een opdracht kunt sturen. Gebruik hiervoor de [TkkrLab bundle](/files/TkkrLab_PrusaSlicer_config_bundle.ini.zip) en importeer deze via 'File -> Import -> Import Config Bundle' in de PrusaSlicer. Hiermee worden beide fysieke printers toegevoegd en kun je deze selecteren onder 'Printer' dropdown rechts bovenaan in de interface.
 
 De prusa slicer staat ook op het windows systeem naast de 3d printers, dus je kunt ook hierop de g-code genereren.
 

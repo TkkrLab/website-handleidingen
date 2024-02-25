@@ -10,8 +10,7 @@ Ga met het gereedschap om zoals het bedoeld is, mocht je niet weten hoe iets wer
 
 ## Space
  * 3d Printers
-   * [Prusa XL](prusa-xl)
-   * 2 x [Prusa Mini](prusa-mini)
+   * [Prusa XL en 2x Mini](prusa-mini-xl)
  * [Thermische Camera UTi260B](thermal_imager_uti260b)
  * [Cardprinter Evolis Zenius](cardprinter_evolis_zenius)
  * Naaimachine : Singer Serenade 10

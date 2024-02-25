@@ -1,29 +1,44 @@
 ---
-title: "Prusa Mini+"
+title: "Prusa Mini+ en XL"
 date: 2021-06-30
 weight: 3
 ---
 
 ![Prusa Mini+](/images/prusa_mini_tkkrlab.jpg)
 
-## Specificaties
+## Specificaties Prusa printere
 
-* Afmetingen: 180x180x180mm
-* Filament maat: 1.75mm
 * Materialen: PLA, PETG, ASA, ABS, Flex
-* Nozzle grootte: 0.4mm
+* Nozzle grootte: 0.4mm 
+* Filament maat: 1.75mm
 * Verwarmd printbed: Ja
 * Filement sensor : Ja
 
- Meer informatie over Prusa Mini+ op site van [prusa](https://www.prusa3d.com/original-prusa-mini/)
+
+## Specificaties Mini
+
+* Afmetingen: 180x180x180mm
+
+Meer informatie over Prusa Mini+ op site van [prusa](https://www.prusa3d.com/original-prusa-mini/)
+
+![Prusa XL 5T](/images/prusa_xl.jpg)
+
+## Specificaties XL
+
+* Afmetingen: 360x360x360mm
+* 5 Toolheads
+
+Meer informatie over Prusa XL op site van [prusa](https://www.prusa3d.com/en/product/original-prusa-xl-2/)
+
+
 
 ## Slicen
 
-Het mooie van een Prusa printer is dat je de Prusa Slicer kunt gebruiken, hierin is de prusa mini al helemaal voorgedefinieerd en kun je deze meteen gebruiken. Je kunt de [Prusa Slicer hier downloaden](https://www.prusa3d.com/prusaslicer/), installeer deze op je eigen systeem. Als je het de eerste keer start zal die vragen welke printer je hebt, selecteer hier Prusa Mini.
+Het mooie van een Prusa printer is dat je de Prusa Slicer kunt gebruiken, hierin is de prusa mini en XL al helemaal voorgedefinieerd en kun je deze meteen gebruiken. Je kunt de [Prusa Slicer hier downloaden](https://www.prusa3d.com/prusaslicer/), installeer deze op je eigen systeem. Als je het de eerste keer start zal die vragen welke printer je hebt, selecteer hier Prusa Mini en de XL 5T
 
 ### Configureren voor TkkrLab
 
-Als je PrusaSlicer voor de eerste keer opstart moet je eerst een printer aanmaken. Voor TkkrLab is dat dus de 'Prusa MINI+' printer. We hebben 3 printers die je via het lokale netwerk een opdracht kunt sturen. Gebruik hiervoor de [TkkrLab bundle](/files/TkkrLab_PrusaSlicer_config_bundle.ini.zip) en importeer deze via 'File -> Import -> Import Config Bundle' in de PrusaSlicer. Hiermee worden beide fysieke printers toegevoegd en kun je deze selecteren onder 'Printer' dropdown rechts bovenaan in de interface.
+Als je PrusaSlicer voor de eerste keer opstart moet je eerst een printer aanmaken. Voor TkkrLab is dat dus de 'Prusa MINI+' en 'Prusa XL 5T' printer. We hebben 3 printers die je via het lokale netwerk een opdracht kunt sturen. Gebruik hiervoor de [TkkrLab bundle](/files/TkkrLab_PrusaSlicer_config_bundle.ini.zip) en importeer deze via 'File -> Import -> Import Config Bundle' in de PrusaSlicer. Hiermee worden beide fysieke printers toegevoegd en kun je deze selecteren onder 'Printer' dropdown rechts bovenaan in de interface.
 
 De prusa slicer staat ook op het windows systeem naast de 3d printers, dus je kunt ook hierop de g-code genereren.
 
@@ -45,7 +60,7 @@ De meeste modellen kun je zonder support printen, vooral als deze speciaal voor 
 
 #### Infill
 
-Hoe solide de print gemaakt moet worden, default is 15%. Voor puur display-modellen zijn je tot 5-10% kunnen gaan, voor prints die heel stevig moeten zijn kun je tot 80-90% gaan, hoger geeft geen extra stevigheid. Ook dit heeft weer impact op je print tijd.
+Hoe solide de print gemaakt moet worden, default is 15%. Voor puur display-modellen zijn je tot 5-10% kunnen gaan, voor prints die heel stevig moeten zijn kun je tot 80-90% gaan, hoger dan dit geeft geen extra stevigheid. Ook dit heeft weer impact op je print tijd.
 
 #### Brim
 
@@ -55,17 +70,23 @@ In PrusaSlicer zijn er veel meer instellingen (in totaal iets van 400), deze hoe
 
 Als je alles goed hebt ingesteld kun je de code genereren met 'Export G-code' en naar USB schrijven of via het netwerk versturen.
 
-## Printen op de Prusa Mini
+## Printen op de Prusa
 
 Onze printers hebben een filament sensor, dus als filament op is stopt de printer en vraagt of je weer filament wil laden. 
 
 ### Schoon maken printplaat
 
-Indien je print niet goed hecht kan het zijn dat de magnetische printplaat smerig/stoffig is. Maak deze schoon met een doekje met alchohol en probeer het opnieuw. Je hebt geen lijmstift of haarlak nodig om op de Prusa Mini.
+Indien je print niet goed hecht kan het zijn dat de magnetische printplaat smerig/stoffig is. Maak deze schoon met een doekje met alchohol en probeer het opnieuw. Je hebt geen lijmstift of haarlak nodig om op de Prusa's.
 
-### Filament laden
+### Filament laden (Mini)
 
 Als er nog geen filament inzit zal de printer vragen om filament te laden. Aan de rechter zijkant is een witte buis waarin je filament in moet doen.
+
+### Filament laden (XL)
+
+Als er nog geen filament inzit zal de printer vragen om filament te laden. Aan de  zijkanten is een witte buis waarin je filament in moet doen. De koppen tellen van links (1) naar rechts (5), 
+
+### Filament laden algemeen
 
 Beging van het filament moet glad zijn, als er sliertjes of verdikking aan zit knip dit stukje af onder hoek van 45<sup>o</sup> met een zijkniptang.
 
@@ -73,9 +94,10 @@ Druk filament in de buis tot die niet verder gaat. Geef op de printer aan dat fi
 
 Als filament is geladen kun je de print gaan starten
 
-### Printen G-code
 
-Selecteer gcode model op Prusa Mini+ en selecteer 'Print' in het menu.
+### Printen G-code via USB
+
+Doe de USB stick in de betreffende printer en selecteer gcode model op Prusa en selecteer 'Print' in het menu.
 
 Printer zal eerst de temperatuur van kop en bed verwarmen, bed gaan levelen en dan gaan printen.
 

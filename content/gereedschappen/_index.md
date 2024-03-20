@@ -43,7 +43,7 @@ Ga met het gereedschap om zoals het bedoeld is, mocht je niet weten hoe iets wer
 De apparatuur in onze werkplaats.
  * [Lasercutter FabCreator](fabcore_lasercutter)
  * [Optimum OPTimill MB 4 frees ](optimum-optimill-mb-4-frees)
- * [HBM 210 Draaibank](hbm-210-draaibank)
+ * [HBM 210 Draaibank](metaaldraaibank-hbm-210)
  * [Stepcraft D840](stepcraft_d840)
  * [Kleine CNC](/gereedschappen/cnc_zen/)
  * [Zaagtafel](zaagtafel)
@@ -59,7 +59,7 @@ De apparatuur in onze werkplaats.
  * Diverse handgereedschap
 
 ## Presentatie ruimte (Textiel)
- * [Brother PR600 II borduurmachine](brother_pr600_II)
+ * [Brother PR600 II borduurmachine](brother_pr600_ii)
  * [TOYOTA Overlock](toyota_differential_sl3455ds_overlocker)
  * [Brotherbreimachine KR-940](brother_breimachine_kr940_kr850/)
  * [Silhouette Cameo 3](silhouette) Folie snijder
